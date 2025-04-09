@@ -506,7 +506,7 @@ The **Collaborative Modeling Workshop Preparation Canvas** is designed to ensure
 
 # Authors
 
-- Beija Nigl ([GitHub](https://github.com/beija)[LinkedIn](https://www.linkedin.com/in/beija-nigl/))
+- Beija Nigl ([GitHub](https://github.com/beija), [LinkedIn](https://www.linkedin.com/in/beija-nigl/))
 - Michael Plöd ([GitHub](https://www.github.com/mploed), [LinkedIn](https://www.linkedin.com/in/michael-ploed/))
 
 # Contributors
