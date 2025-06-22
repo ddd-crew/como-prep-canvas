@@ -82,7 +82,7 @@ Below is a more detailed explanation for each section, with examples. The exampl
   The person or organization requesting (and financing) the workshop, or the authority sponsoring it.  
     
 - **Why it matters:**  
-  Sometimes your main conact / the initiator is not the one ultimately responsible for the workshop and its results. It is important to be clear about this and to clarify for the expectations and their definition of success beforehand. Dont rely on your contact to do this for you. Chinese whispers in crease the chances of unwanted surprises. It is also important to know who is allowed to decide / what can be decided during the workshop itself. 
+  Sometimes your main contact / the initiator is not the one ultimately responsible for the workshop and its results. It is important to be clear about this, and to clarify the expectations and their definition of success beforehand. Don't rely on your contact to do this for you. Gossip or Telephone game like chatter increases the chances of unwanted surprises. It is also important to know who is allowed to decide / what can be decided during the workshop itself. 
 
 **Example:**
 
