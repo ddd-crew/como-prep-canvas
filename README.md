@@ -464,7 +464,7 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 
 - **Difficulty Defining the "Purpose of Workshop" or "Outcomes":** If stakeholders struggle to articulate clear goals or success criteria, it may indicate conflicting priorities or a lack of shared understanding.  
 - **Extensive "Hidden Agendas / Politics" Entries:** A long list in this section suggests a highly politicized environment with potential conflicts or resistance.  
-- **Many different individual goals:** If you have many parties with very different or even contradicting (at first sight) subgoals you should invest enough time in scoping sessions to find the overarching goal to create a win-win situation.   
+- **Many different individual goals:** If you have many parties with very different or even contradicting (at first sight) sub-goals you should invest enough time in scoping sessions to find the overarching goal to create a win-win situation.   
 - **Hard to find a goal that unites all interests:** If you cannot agree on a (even very high level) goal that unites all stakeholders, try to understand what's behind the different interests, which fears might be under the hood. (Either as part of the preparation e.g. in setting the stage sessions and scoping calls, during pre-workshops or as part of the actual workshop)   
 - **Disagreement on "Scope":** If defining what is in or out of scope leads to significant debate or disagreement, it may signal differing expectations or underlying power struggles.  
 - **Unclear "Principal / Client / Contracting Authority" or "Initiator":** Ambiguity about who is ultimately responsible or driving the workshop can lead to confusion and challenges. It should be clear before the workshop who is able to decide what / how decisions are made. If this is not possible / unknown, have it as part of the workshop to find it out.   
@@ -495,7 +495,7 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 
 # Conclusion
 
-The **Collaborative Modeling Workshop Preparation Canvas** is designed to ensure a thorough, well-managed, and transparent preparation process. By distinguishing **public** (green) areas that keep everyone aligned from **private** (pink) sections that allow facilitators to strategize on sensitive matters, you can run effective collaborative modeling sessions that engage the right people, focus on the right problems, and yield meaningful outcomes. Use the above documentation and examples as your guide, adapting them to your specific workshop context.  
+The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensure a thorough, well-managed, and transparent preparation process. By distinguishing **public** (green) areas that keep everyone aligned from **private** (pink) sections that allow facilitators to strategize on sensitive matters, you can run effective collaborative modelling sessions that engage the right people, focus on the right problems, and yield meaningful outcomes. Use the above documentation and examples as your guide, adapting them to your specific workshop context.  
 
 # Resources:
 [High Res Version](resources/como-prep-canvas-v1-highres.jpg)
