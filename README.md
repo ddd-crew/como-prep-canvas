@@ -118,7 +118,7 @@ These are public and can be shared with the entire group (participants, sponsors
 
 
 - **Why it matters:**  
-  It is important that you are clear abourt the problem you wnat to solve. This can be a process together with the stakeholders. Knowing and actually understanding the problem is often already the first step. If you want to share the green section with the workshop participants beforehand, make sure you phrase it in a way that it can be perceived as a win-win situation/chance. Here it helps to be aware of the shadows of the people.   
+  It is important that you are clear about the problem you want to solve. This can be a process together with the stakeholders. Knowing and actually understanding the problem is often already the first step. If you want to share the green section with the workshop participants beforehand, make sure you phrase it in a way that it can be perceived as a win-win situation/chance. Here it helps to be aware of the shadows of the people.   
   Try not to solve too many problems at the same time and help your stakeholders to pinpoint the challenge they want to tackle in this workshop. It still helps the have a greater goal or subsequent goals to get the bigger picture od the workshop. 
 
 **Example:**
@@ -189,7 +189,7 @@ These are public and can be shared with the entire group (participants, sponsors
 
 
 - **Why it matters:**  
-  Helps facilitators prioritize if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop
+  Helps facilitators prioritise if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop
 
 **Example:**
 
