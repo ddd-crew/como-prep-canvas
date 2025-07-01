@@ -82,7 +82,7 @@ Below is a more detailed explanation for each section, with examples. The exampl
   The person or organization requesting (and financing) the workshop, or the authority sponsoring it.  
     
 - **Why it matters:**  
-  Sometimes your main conact / the initiator is not the one ultimately responsible for the workshop and its results. It is important to be clear about this and to clarify for the expectations and their definition of success beforehand. Dont rely on your contact to do this for you. Chinese whispers in crease the chances of unwanted surprises. It is also important to know who is allowed to decide / what can be decided during the workshop itself. 
+  Sometimes your main contact / the initiator is not the one ultimately responsible for the workshop and its results. It is important to be clear about this, and to clarify the expectations and their definition of success beforehand. Don't rely on your contact to do this for you. Gossip or Telephone game like chatter increases the chances of unwanted surprises. It is also important to know who is allowed to decide / what can be decided during the workshop itself. 
 
 **Example:**
 
@@ -118,7 +118,7 @@ These are public and can be shared with the entire group (participants, sponsors
 
 
 - **Why it matters:**  
-  It is important that you are clear abourt the problem you wnat to solve. This can be a process together with the stakeholders. Knowing and actually understanding the problem is often already the first step. If you want to share the green section with the workshop participants beforehand, make sure you phrase it in a way that it can be perceived as a win-win situation/chance. Here it helps to be aware of the shadows of the people.   
+  It is important that you are clear about the problem you want to solve. This can be a process together with the stakeholders. Knowing and actually understanding the problem is often already the first step. If you want to share the green section with the workshop participants beforehand, make sure you phrase it in a way that it can be perceived as a win-win situation/chance. Here it helps to be aware of the shadows of the people.   
   Try not to solve too many problems at the same time and help your stakeholders to pinpoint the challenge they want to tackle in this workshop. It still helps the have a greater goal or subsequent goals to get the bigger picture od the workshop. 
 
 **Example:**
@@ -189,7 +189,7 @@ These are public and can be shared with the entire group (participants, sponsors
 
 
 - **Why it matters:**  
-  Helps facilitators prioritize if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop
+  Helps facilitators prioritise if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop
 
 **Example:**
 
@@ -464,7 +464,7 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 
 - **Difficulty Defining the "Purpose of Workshop" or "Outcomes":** If stakeholders struggle to articulate clear goals or success criteria, it may indicate conflicting priorities or a lack of shared understanding.  
 - **Extensive "Hidden Agendas / Politics" Entries:** A long list in this section suggests a highly politicized environment with potential conflicts or resistance.  
-- **Many different individual goals:** If you have many parties with very different or even contradicting (at first sight) subgoals you should invest enough time in scoping sessions to find the overarching goal to create a win-win situation.   
+- **Many different individual goals:** If you have many parties with very different or even contradicting (at first sight) sub-goals you should invest enough time in scoping sessions to find the overarching goal to create a win-win situation.   
 - **Hard to find a goal that unites all interests:** If you cannot agree on a (even very high level) goal that unites all stakeholders, try to understand what's behind the different interests, which fears might be under the hood. (Either as part of the preparation e.g. in setting the stage sessions and scoping calls, during pre-workshops or as part of the actual workshop)   
 - **Disagreement on "Scope":** If defining what is in or out of scope leads to significant debate or disagreement, it may signal differing expectations or underlying power struggles.  
 - **Unclear "Principal / Client / Contracting Authority" or "Initiator":** Ambiguity about who is ultimately responsible or driving the workshop can lead to confusion and challenges. It should be clear before the workshop who is able to decide what / how decisions are made. If this is not possible / unknown, have it as part of the workshop to find it out.   
@@ -495,7 +495,7 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 
 # Conclusion
 
-The **Collaborative Modeling Workshop Preparation Canvas** is designed to ensure a thorough, well-managed, and transparent preparation process. By distinguishing **public** (green) areas that keep everyone aligned from **private** (pink) sections that allow facilitators to strategize on sensitive matters, you can run effective collaborative modeling sessions that engage the right people, focus on the right problems, and yield meaningful outcomes. Use the above documentation and examples as your guide, adapting them to your specific workshop context.  
+The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensure a thorough, well-managed, and transparent preparation process. By distinguishing **public** (green) areas that keep everyone aligned from **private** (pink) sections that allow facilitators to strategize on sensitive matters, you can run effective collaborative modelling sessions that engage the right people, focus on the right problems, and yield meaningful outcomes. Use the above documentation and examples as your guide, adapting them to your specific workshop context.  
 
 # Resources:
 [High Res Version](resources/como-prep-canvas-v1-highres.jpg)
