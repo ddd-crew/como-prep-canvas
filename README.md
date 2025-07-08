@@ -1,247 +1,170 @@
-# Collaborative Modeling Workshop Preparation Canvas
+# Collaborative Modeling Workshop Preparation Canvases
+The “Collaborative Modeling Workshop Preparation Canvases” are designed to support facilitators when preparing for collaborative modelling (CoMo) workshops. The goal is to improve the overall quality and outcomes of CoMo workshop and to help newcomers to get started.
 
-The “Collaborative Modeling Workshop Preparation Canvas” is a tool to support facilitators when preparing for collaborative modelling (CoMo) workshops. The canvas is split into two primary areas:
+The canvases are structured into two areas:
+* Drafting the workshop (Scoping, Planning & Design)
+* Personal preparation (People, Methods)
 
-1. **Green Sections** – These are **public** and can be shared with the entire group (participants, sponsors, and stakeholders) both before and during the workshop.  
-2. **Pink Sections** – These are **private** and intended **only for facilitators (and their close collaborators)** who need to manage deeper workshop logistics, hidden agendas, and sensitive information.
+![Collaborative Modeling Workshop Preparation Canvases](resources/como-prep-canvas-v2.jpg)
 
-![CoMo Prep Canvas](resources/como-prep-canvas-v1.jpg)
+## 1\. Who are the canvases for?
 
----
+The canvases are designed to support everyone facilitating collaborative modelling workshops. However it might provide different value depending on your experience and the the type of workshop:
 
-## 1\. When and Why to use the Canvas
+**Guidance for New Facilitators:** The canvases offer a structured starting point, helping new facilitators understand how to plan and execute a successful workshop. They outline essential considerations when drafting a workshop and help to avoid common pitfalls.
 
-The canvas is not only supposed to guide rather new facilitators but also provide a structured guide to already experienced ones. The structured approach is designed to help you to be less biased by recent experiences to engage with each workshop anew.
+**Tool for Experienced Facilitators:** Seasoned facilitators can use the canvases as checklists to ensure nothing is overlooked in the preparation process, maintaining high-quality standards. The structured approach also promotes a less biased preparation as one is less influenced by recent experiences and can engage with each workshop anew.
 
-### 1.1 Preparing Workshops in challenging environments 
+Furthermore, they can be used for the following:
 
-The canvas is designed to help you when facing rather challenging settings. It will guide you through in your preparation and help you to better understand the environment (goal, status quo & people). It will also support you to make your own assumptions transparent to be able to challenge them. By going through the different sections and related questions, the canvas helps you to effectively prepare the workshop's outline (storyline, communication strategy, shared goal).
+**Exploring New Perspectives:** By highlighting potential different aspects, the canvases encourage facilitators to explore new perspectives and reflect on their own facilitation style. It can be used as a diagnostic tool to identify potentially challenging workshop environments and find blind spots in deceptively easy settings. Certain patterns or triggers during the canvas completion process may indicate complexity or difficulties.
 
-### 1.2 Finding blind spots in deceptively easy settings (Identifying challenging environments)
+**Preparing for Challenging Environments:**
+The canvas is designed to help you when facing rather challenging settings. It will guide you through in your preparation and help you to better understand the environment (goal, status quo & people). It will also support you to make your own assumptions transparent to be able to challenge them. By going through the different sections and related questions, the canvas helps you to effectively prepare the workshop’s outline (storyline, communication strategy, shared goal).
 
-The Collaborative Modeling Workshop Preparation Canvas can also serve as a diagnostic tool to identify potentially challenging workshop environments and find blind spots in deceptively easy settings. Certain patterns or triggers during the canvas completion process may indicate complexity or difficulties. 
+## 2\. Overall Structure
 
-The green sections, when shared with stakeholders beforehand, should help you to find misunderstandings during preparation and are designed to be used as a baseline for your communicating with the initiator, authority and/or participants before and during the workshop. The pink sections might help you to find the gaps in your own mental model and look behind the curtains.
+### 2.1 Drafting the Workshop
+These canvases serve as a guidance when drafting a workshop. The information gathered is supposed to be discussed and shared in advance with all stakeholders und shapes the goal and structure of the workshop. It contains guiding questions for scoping, planning and designing a CoMo workshop.
 
-## 2\. Overall Canvas Structure
+#### [2.1.1 Scoping](#3-scoping)
+![Scoping Canvas](resources/scoping.jpg)
+#### [2.1.2 Workshop Planning & Design](#4-workshop-planning--design)
+![Workshop Planning & Design](resources/workshop-planning-and-design.jpg)
 
-Use this documentation as reference while filling out each field. 
+### 2.2 Personal Preparation
+These Canvases serve for your own preparation and should stay **with the facilitators (and their close collaborators) only** as they contain hidden agendas, assumptions, personal triggers, alternatives on methods, thoughts behind the storyline, and more. They target the rather invisible aspects that are crucial for a successful workshop preparation are split into **People** and **Methods**. The people canvas is designed to create awareness on motivations and hidden agendas of your stakeholders and how knowledge and power are distributed. he method canvas contains different sections that help in designing a consistent storyline throught the workshop and to deep dive on the methods used. 
 
-1. **Header Sections**  
-     
-   - **Title of Workshop**  
-   - **Principal / Client / Contracting Authority**  
-   - **Initiator**
+#### [2.2.1 Peope](#5-people)
+![Peope Deepdive](resources/personal-preparation-people.jpg)
+#### [2.2.2 Methods](#6-methods)
+![Methods Deepdive](resources/personal-preparation-methods.jpg)
 
-   
 
-2. **Green (Public) Panels**  
-     
-   - **Purpose of Workshop**  
-   - **Context of Workshop (Status Quo)**  
-   - **Outcomes** (Desired Outcomes, Granularity Level, Nice-to-Have Outcomes)  
-   - **Scope** (In-Scope, Out-of-Scope)  
-   - **Agenda**  
-   - **Code of Conduct**
 
-   
+## 3\. Drafting the Workshop - Scoping
 
-3. **Pink (Private) Panels**  
-     
-   - **Participants with Questions**  
-   - **Participants with Answers**  
-   - **Individual goals, benefits and motivation, (Potential) fears and shadows & (Potential) Hidden Agendas / Politics**  
-   - **Decision makers / People with power**   
-   - **Other Stakeholders**  
-   - **Communication Strategy**  
-   - **Method Check** (Advantages, Blindspots, Risks, Coping Strategies)
+Usually the first step when preparing a (collaborative modelling) workshop is discussing its motivation and backgroud (like *what led to the workshop*) as well as the definition of success (like *what should have changed afterwards*). Additionally, it's important to establish a suitable (working) title early on, discuss initial ideas for the workshop format, and identify the key parties involved (initiator, beneficiaries & potential participants).
 
-Below is a more detailed explanation for each section, with examples. The examples included are simplified illustrations of what real content might look like.
-
----
-
-## 2\. Header Sections
-
-### 2.1 Title of Workshop
-
-- **What to include:**  
-  A clear, concise name for the upcoming collaborative modeling session.  
+### 3.1 Title of Workshop
+A clear, concise name for the upcoming collaborative modeling session. 
     
-- **Why it matters:**  
-  This title sets expectations and gives the workshop a clear identity from the outset and should be aligned with the goal and scope of the workshop. If you struggle in finding a concise title for the workshop, the goal and scope might not be clear enough yet. Same applies if the title is not understood by stakeholders without further explanation. 
+**Why it matters:**  
+This title sets expectations and gives the workshop a clear identity from the outset and should be aligned with the goal and scope of the workshop. If you struggle in finding a concise title for the workshop, the goal and scope might not be clear enough yet. Same applies if the title is not understood by stakeholders without further explanation. 
 
-**Example:**
+**Examples:**
+- “EventStorming Workshop: Improving the Order Fulfillment Process”
+- "Re-Discovery Workshop for the Booking Plattform"
 
-**“EventStorming Workshop: Improving the Order Fulfillment Process”**
+### 3.2 Motivation
+This section adresses the "why" of the workshop. Potenital questions you should/could answer are:
+- What led to the workshop?
+- What is the status quo? 
+- How are they/we organised?
+- What does their/your current architecture look like?
+- How much DDD & CoMo knowledge is already present?
+- What are expectations and/or assumptions towards the workshop?
 
----
+**Why it matters:**  
+  It is important that you are clear about the problem you want to solve and the situation your in. Try not to solve too many problems at the same time and pinpoint the challenge you want to tackle in this workshop. The more you know in advance the better you can adapt the workshop format to the needs of the beneficiaries. Additionally, engaging stakeholders in these discussions helps them become more aware of the problem and deepen their understanding, which is already a step towards finding a solution or improving the situation. 
+  
+**Examples:**
+  - To identify process bottlenecks in our current order-to-delivery workflow and collaboratively propose improvements. 
+  - Currently, our average delivery time has increased from 2 days to 5 days in the last quarter.  
+  - Customer complaints have risen by 40%.  
+  - Multiple departments (Sales, Warehouse, Shipping) have overlapping responsibilities but lack clear communication.
 
-### 2.2 Principal / Client / Contracting Authority
+### 3.3 Definition of Success
+Think about what should be the outcome of the workshop, like what should change/improve. What are the core goals that must be achieved by the end of the workshop. Make sure to frame it as a win-win situation/chance. It can also include rather non-critical objectives that are beneficial but not mandatory. 
 
-- **What to include:**  
-  The person or organization requesting (and financing) the workshop, or the authority sponsoring it.  
-    
-- **Why it matters:**  
-  Sometimes your main contact / the initiator is not the one ultimately responsible for the workshop and its results. It is important to be clear about this, and to clarify the expectations and their definition of success beforehand. Don't rely on your contact to do this for you. Gossip or Telephone game like chatter increases the chances of unwanted surprises. It is also important to know who is allowed to decide / what can be decided during the workshop itself. 
+**Why it matters:**  
+  A definition of success for a workshop is crucial because it clarifies the objectives, outlining what the workshop aims to achieve. It guides the planning process, helping to design the format and activities to meet specific goals. It also provides a way to measure progress and evaluate the workshop's effectiveness. Ultimately, having a clear definition of success enhances focus, keeping discussions and activities centered on achieving the desired results.
+  
+  Additionally, it aligns participants by ensuring everyone understands the purpose and expected outcomes, providing a baseline so all enter the workshop on the same page. This should be shared beforehand and at the start of the workshop. Being aware of participants' potential fears and motivations is also beneficial([5.3 Individual goals, benefits and motivation, (Potential) fears, hidden agendas & politics](#53-individual-goals-benefits-and-motivation-potential-fears-hidden-agendas--politics)).
 
-**Example:**
-
-*Client:* Logistics Department of XYZ Company
-
----
-
-### 2.3 Initiator
-
-- **What to include:**  
-  The individual or group who had the idea for the workshop or championed its need.  
-    
-- **Why it matters:**  
-  Understanding who brought the workshop to life helps clarify motivations and possible goals. They often provide valuable background information to the status quo and the people involved.  They are your lever into the company / department / team, but they might also have their hidden agenda in doing so. Try to find out as much as possible about the people joining the workshop, e.g. fears, hidden agendas, potential goals/stakes (see below). But also be aware they might be wrong / it's just one opinion. You can use the Setting the Stage sessions to get more insights yourself.
-
-**Example:**
-
-*Initiator:* Head of Supply Chain Innovation at XYZ Company
-
----
-
-## 3\. Green Panels (Public)
-
-These are public and can be shared with the entire group (participants, sponsors, and stakeholders) both before and during the workshop.
-
-### 3.1 Purpose of Workshop
-
-- **What to include:**  
-    
-  - The main reason for running this workshop.  
-  - High-level objectives or what problem it tries to address.  
-  - Definition of success
-
-
-- **Why it matters:**  
-  It is important that you are clear about the problem you want to solve. This can be a process together with the stakeholders. Knowing and actually understanding the problem is often already the first step. If you want to share the green section with the workshop participants beforehand, make sure you phrase it in a way that it can be perceived as a win-win situation/chance. Here it helps to be aware of the shadows of the people.   
-  Try not to solve too many problems at the same time and help your stakeholders to pinpoint the challenge they want to tackle in this workshop. It still helps the have a greater goal or subsequent goals to get the bigger picture od the workshop. 
-
-**Example:**
-
-**Purpose:** To identify process bottlenecks in our current order-to-delivery workflow and collaboratively propose improvements.
-
----
-
-### 3.2 Context of Workshop (Status Quo)
-
-- **What to include:**  
-    
-  - A short summary of the current situation leading to the workshop.  
-  - Key facts, constraints, and any relevant history.
-
-
-- **Why it matters:**  
-  Provides a baseline for all participants so that they enter the workshop on the same page. This should best case be shared beforehand as well as in the beginning of the workshop.
-
-**Example:**
-
-**Context:**
-
-- Currently, our average delivery time has increased from 2 days to 5 days in the last quarter.  
-- Customer complaints have risen by 40%.  
-- Multiple departments (Sales, Warehouse, Shipping) have overlapping responsibilities but lack clear communication.
-
----
-
-### 3.3 Outcomes
-
-#### 3.3.1 Desired Outcomes
-
-- **What to include:**  
-    
-  - Core goals that must be achieved by the end of the workshop.  
-  - Typically phrased as bullet points or short statements of success.
-
-
-- **Why it matters:**  
-  Guides facilitators and participants in focusing on what truly needs to get done. Trying to think about how success would look like helps you to get in the mindset to solve problems but also to understand them better. It also helps to find the right methods for the workshop and to manage expectations (e.g. what is possible vs. what would be wished for in an ideal world)
-
-**Example:**
-
-- A shared map of the “Order Fulfillment” domain and key events.  
+**Examples:**
+- A shared understanding of the “Order Fulfillment” domain and key events and a clear way forward.  
 - A prioritized list of bottlenecks and possible interventions.  
 - Agreement on next steps to pilot one key improvement.
+- A shared understanding between the different departments and everyone pulling in the same direction.
 
-#### 3.3.2 Granularity Level
+### 3.4 First ideas on the Workshop Format
+There is no need at this point to have a concrete agenda set, still it makes sense to define the rough setting of the workhop like timeframe and potential methods.
 
-- **What to include:**  
+**Why it matters:**  
+  Discussing initial ideas on the workshop format early on is important because it shapes the planning process, ensuring the workshop is structured effectively from the start. It aligns expectations among stakeholders, providing a shared understanding of how the workshop will proceed. It helps to identify the necessary resources and to anticipate and address potential challenges.
+
+**Examples:**
+- 1-2 hours of Desing Level Event Storiming
+- 1/2 day with Event Storming, Context Mapping and User Story Mapping
+- 5 days with Wardley Mapping, Event Storming, Impact Mapping and an Architecture Review
+
+### 3.5 Initiator & Beneficiaries
+The individual or group who had the idea for the workshop or championed its need.  
     
-  - An indication of how detailed the modeling or discussion is intended to be, from very high-level to very detailed.
+**Why it matters:**  
+  Understanding who brought the workshop to life helps clarify motivations and possible goals. They often provide valuable background information to the status quo and the people involved. They are your lever into the company / department / team, but they might also have their hidden agenda in doing so. Also be clear about who are your beneficiaries, like who actually benefits in the end of the workshop and it's results. Try to find out as much as possible about the beneficiaries throughout the preparation, e.g. fears and individual motivations. But also be aware they might be wrong / it's just one opinion. You can use the Setting the Stage sessions to get more insights yourself.
 
+**Examples:**
 
-- **Why it matters:**  
-  Aligns expectations regarding how deeply to dive into each topic.
+- Initiator: Head of Supply Chain Innovation at XYZ Company & Beneficiaries: Operations and Sales Teams
+- Initiator: Senior Dev in Team XYZ Beneficiaries: Dev & Product Teams
 
-**Example (Scale):**
-
-“We will focus on a mid-level granularity: We want to capture major events and responsibilities without diving into every IT system detail.”
-
-#### 3.3.3 Nice-to-Have Outcomes
-
-- **What to include:**  
+### 3.6 Potential Participants 
+Everyone who might be needed for the workshop (e.g. Tech Leads, Developers, Tester, Sales Department, Product Owner, User, Customer, Operations, ...).
     
-  - Additional, non-critical objectives that are beneficial but not mandatory.
+**Why it matters:**  
+  [tbd]
+
+**Examples:**
+- ...
+
+## 4\. Drafting the Workshop - Workshop Planning & Design
+
+Here the sections from the Scoping Canvas can be further refined. Aditionally there is more information that should be considered which are part of the Workshop Planning & Design Canvas as well as optional sections that can be added depending on the format, context and experience of the facilitator(s).
+
+### 4.1 Scope of the Workshop
+
+**What to include:**
+- Which services / teams / user flows / domains are we (not) looking at?
+- Are there decisions to be made?
+- What should be the flight level?
 
 
-- **Why it matters:**  
-  Helps facilitators prioritise if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop
+**Why it matters:**  
+  Helps set boundaries so that discussions remain productive and relevant. Helps to set expectations and to understand the problem better. It should also help your to know who should be invited. Beeing aware of what is rather out of scope helps to keep the workshop focuesd and ensures that participants do not derail the workshop with irrelevant concerns. Sometimes it is easier to pinpoint what is rather out of scope then in scope. By asking for both you can more easily adapt to your stakeholder group and open up new perspectives. 
+  
+  It also helps to find the right methods for the workshop and to manage expectations (e.g. what is possible vs. what would be wished for in an ideal world). Helps facilitators prioritise if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritise their expectations rather than skipping them completely. They can also serve as potential follow ups after the workshop.
 
 **Example:**
-
-- Gather preliminary metrics for potential ROI of proposed improvements.  
-- Explore a rough timeline for system integration changes.
-
----
-
-### 3.4 Scope
-
-#### 3.4.1 In-Scope Processes / Domains / Activities
-
-- **What to include:**  
-    
-  - The specific processes, departments, or activities the workshop *will* examine.
-
-
-- **Why it matters:**  
-  Helps set boundaries so that discussions remain productive and relevant. Helps to set expectations and to understand the problem better. It should also help your to know who should be invited 
-
-**Example:**
-
 - Order submission (Sales)  
 - Inventory checks (Warehouse)  
 - Shipping & Tracking (Logistics)
-
-#### 3.4.2 Out-of-Scope Processes / Domains / Activities
-
-- **What to include:**  
-    
-  - The processes, departments, or activities the workshop *will not* address.
-
-
-- **Why it matters:**  
-  Prevents scope creep and ensures participants do not derail the workshop with irrelevant concerns. Sometimes it is easier to pinpoint what is out of scope then in scope. By asking for both you can more easily adapt to your stakeholder group and open up new perspectives. 
-
-**Example:**
-
 - Payment processing (handled separately by Finance)  
 - Customer support ticketing (handled by Customer Service after delivery)
 
----
-
-### 3.5 Agenda
-
-- **What to include:**  
-    
-  - The structure of the workshop: methods used, timings, breaks, and start/end times.  
-  - High-level schedule or timeline.
 
 
-- **Why it matters:**  
+### 4.2 Workshop Constraints
+
+**What to include:**  
+- ...
+
+
+**Why it matters:**  
+  [tbd]
+
+**Example:**
+- ...
+
+### 4.3 High Level Agenda
+
+**What to include:**      
+- The structure of the workshop: methods used, timings, breaks, and start/end times.  
+- High-level schedule or timeline.
+
+
+**Why it matters:**  
   Ensures participants know how the workshop will flow and when each activity will happen. The more the participants know the better they can prepare and it helps you to set expectations. There is no need to explain every method on detail but to share the overall storyline through the workshop. Explain the “why” of each method. It also increases trust and confidence in you as facilitator as you show that you have a plan.
 
 **Example:**
@@ -252,77 +175,54 @@ These are public and can be shared with the entire group (participants, sponsors
 4. **10:45 – 12:00** Identifying bottlenecks & potential improvements  
 5. **12:00 – 12:30** Discussion of next steps and wrap-up
 
----
+### 4.4 Participants
 
-### 3.6 Code of Conduct
-
-- **What to include:**  
-    
-  - A set of ground rules that ensure respectful and productive collaboration.
-
+**What to include:**  
+- Participants with knowledge gaps seeking for answers.
+- Participants having deep knowledge or specialized expertise.  
+- Pinpoint who can clarify certain domain aspects if questions arise.
 
 - **Why it matters:**  
-  Reinforces a positive workshop environment and sets behavioral expectations.
-
-**Example:**
-
-- Everyone’s input is valid—no idea is dismissed prematurely.  
-- One person talks at a time—no side conversations.  
-- Maintain confidentiality when asked.  
-- Address issues, not personalities.
-
----
-
-## 4\. Pink Panels (Private)
-
-These panels are meant for the facilitator’s eyes and their close collaborators. They contain more sensitive or strategic considerations that need to be managed discreetly. You can use your consideration from the pink side to gather more information for the green side and vice versa.
-
-### 4.1 Participants with Questions
-
-- **What to include:**  
-    
-  - Participants with knowledge gaps seeking for answers.
-
-
-- **Why it matters:**  
-  Helps facilitators plan how to clarify concepts and provide background during the workshop. If you only have people with answers, you don't have anyone to ask them and you as facilitator might be the only one asking questions which can be quite a bottleneck. Sometimes the people with the answers are the same as the ones with the questions (curious for the other departments) but this is not always the case to better be prepared. 
+  Helps facilitators plan how to clarify concepts and provide background during the workshop. If you only have people with answers, you don't have anyone to ask them and you as facilitator might be the only one asking questions which can be quite a bottleneck. Sometimes the people with the answers are the same as the ones with the questions (curious for the other departments) but this is not always the case to better be prepared. Allows the facilitator to strategically engage the right people at the right time. If you don't include people with answers you end up with only assumptions.
 
 **Example:**
 
 - Jessica (New Warehouse Manager) might need basic Domain Storytelling guidance.  
 - Dan (IT Project Lead) may ask about integration with legacy systems.  
 - Dev Team wanting to know more about the business side.
-
----
-
-### 4.2 Participants with Answers
-
-- **What to include:**  
-    
-  - Participants having deep knowledge or specialized expertise.  
-  - Pinpoint who can clarify certain domain aspects if questions arise.
-
-
-- **Why it matters:**  
-  Allows the facilitator to strategically engage the right people at the right time. If you don't include people with answers you end up with only assumptions.
-
-
-**Example:**
-
 - Mario (Shipping Specialist) knows exact shipping procedures.  
 - Rhea (Business Analyst) is aware of existing metrics and performance data.  
 - Financial department working with the legacy software on a day to day basis.
 
-### 4.3 Individual goals, benefits and motivation, (Potential) fears and shadows & (Potential) Hidden Agendas / Politics
+### 4.5 Collaborative Modelling Methods
+Which collaborative modelling methods are you using? How do they impact the agenda and room setup? Are there any resources you might want to share in advance? ... 
 
-- **What to include:**
+**Why it matters:**  
+  [tbd]
 
+**Example:**
+- ...
+
+### 4.6 Room Setup / Tools Needed
+What do you need? Who will provide what? When can you prep the room? ...
+
+**Why it matters:**  
+  [tbd]
+
+**Example:**
+- ...
+
+## 5\. Personal Preparation - People [WIP]
+
+### 5.3 Individual goals, benefits and motivation, (Potential) fears, hidden agendas & politics
+
+**What to include:**
 - Any potential personal or departmental interests that could shape the workshop’s discussions.  
 - Known conflicts between individuals or teams.  
 - Known or assumed fears of individuals and/or whole teams.  
 - Known or potential team/power dynamics or implicit rules.
 
-- **Why it matters:**  
+**Why it matters:**  
   Being aware of hidden motivations can help you design facilitation techniques that keep the workshop constructive. It also helps you in finding a suitable goal everyone agrees on (win-win situation) and to better navigate group dynamics by understanding their reasoning. 
 
 **Example:**
@@ -330,49 +230,43 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 - The Warehouse team might want to invest in automation; the Logistics team might prefer more manual checks for accuracy.  
 - A manager who is resistant to change may try to block new ideas.
 
----
 
-### 4.4 Decision makers / People with power
+### 5.4 Decision makers / People with power
 
-- **What to include:**   
-    
-  - Key decision-makers for any proposed outcomes or next steps.  
-  - Formal Leaders with official titles or authority (e.g., managers, department heads).   
-  - Informal Leaders who may not hold official titles but have significant influence or respect within the group.  
+**What to include:**   
+- Key decision-makers for any proposed outcomes or next steps.  
+- Formal Leaders with official titles or authority (e.g., managers, department heads).   
+- Informal Leaders who may not hold official titles but have significant influence or respect within the group.  
       
-- **Why it matters:**  
+**Why it matters:**  
   Knowing who has the authority to approve or implement changes will help you manage expectations and ensure that the workshop leads to actionable results. The support and alignment of formal leadership roles are crucial for the success of the workshop as they can interfere unexpectedly. Identifying and engaging with informal leaders can also be essential as their opinion and motivation often highly influences the group dynamics.
 
 **Example:**
-
 - CFO, since proposed improvements might require budget.  
 - HR Department, if staffing changes might result from process improvements.  
 - Most senior colleagues in the team.
 
-### 4.5 Other Stakeholders
+### 5.5 Other Stakeholders
 
-- **What to include:**  
-    
-  - Individuals or groups not directly in the workshop but potentially affected by the outcomes.  
-  - Any high-level sponsors or department heads who might influence or be influenced by the results.
+**What to include:**   
+- Individuals or groups not directly in the workshop but potentially affected by the outcomes.  
+- Any high-level sponsors or department heads who might influence or be influenced by the results.
 
 
-- **Why it matters:**  
+**Why it matters:**  
   Helps the facilitator consider who to inform or loop in later and plan communication accordingly. Make sure you don't have any people in the workshop which just want to watch. Try to find a task for them as well or offer to inform then afterwards about the results. They often highly influence the group dynamics. 
 
 **Example:**
-
 - CFO, since proposed improvements might require budget.  
 - HR Department, if staffing changes might result from process improvements.
 
----
 
-### 4.6 Communication Strategy
 
-- **What to include:**  
-    
-  - How you (the facilitator) plan to communicate with participants and stakeholders before, during, and after the workshop. (when, who, what)  
-  - Which channels (email, Slack, in-person, etc.) will be used.
+### 5.6 Communication Strategy
+
+**What to include:**      
+- How you (the facilitator) plan to communicate with participants and stakeholders before, during, and after the workshop. (when, who, what)  
+- Which channels (email, Slack, in-person, etc.) will be used.
 
 
 - **Why it matters:**  
@@ -380,17 +274,16 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 
 
 **Example:**
-
 - Pre-workshop questionnaire via email.  
 - Slack channel for real-time Q\&A.  
 - Post-workshop summary circulated to all participants and sponsors.  
 - Setting the stage sessions with all participants before the workshop
 
----
 
-### 4.7 Method Check
 
-#### 4.7.1 Advantages of Used Methods for Context, Scope, and Goals
+## 6\. Personal Preparation - Methods [WIP]
+
+### 6.1 Advantages of Used Methods for Context, Scope, and Goals
 
 - **What to include:**  
     
@@ -406,9 +299,9 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 - **EventStorming**: Great for quickly visualizing an end-to-end process, identifying bottlenecks, and engaging non-technical people.  
 - **Domain Storytelling**: Excellent for clarifying roles and interactions in complex processes.
 
----
 
-#### 4.7.2 Potential Blindspots, Risks, and Disadvantages of Used Methods
+
+### 6.2 Potential Blindspots, Risks, and Disadvantages of Used Methods
 
 - **What to include:**  
     
@@ -424,9 +317,9 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 - EventStorming can become chaotic if too many participants talk at once.  
 - Domain Storytelling can be time-intensive if the domain is very large.
 
----
 
-#### 4.7.3 Strategy / Approach for Addressing Blindspots and Disadvantages
+
+### 6.3 Strategy / Approach for Addressing Blindspots and Disadvantages
 
 - **What to include:**  
     
@@ -442,13 +335,14 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 - Pre-divide the domain into manageable slices to avoid “analysis paralysis.”  
 - Assign a co-facilitator to manage group discussions, keep to time boxes, and make sure all voices are heard.
 
----
 
-## 5\. How to use this canvas
 
-***…iterate iterate iterate…***
+## 7\. How to use this canvas
 
-##### Before the workshop
+### 7.1 Preparing a CoMo workshop 
+...iterate iterate iterate…
+
+#### Before the workshop
 
 - Try to fill out as much as you can during/after each meeting you have with the stakeholders (green & pink).   
 - Make your assumptions tangible  
@@ -456,11 +350,12 @@ These panels are meant for the facilitator’s eyes and their close collaborator
 - Try to gain more insights based on your assumptions and open questions.   
 - Adapt the communication strategy and agenda along the way. Think about adding the sharing of the green sections to your communication strategy. 
 
-##### After the workshop 
+#### After the workshop 
 
 You can use the canvas together with the outcomes of the workshop to plan further follow ups and to reflect on your own preparation (e.g. shared goal, communication strategy, storyline, understanding your stakeholders and their hidden agendas, …). 
 
-## 6\. Potential triggers and patterns indicating a challenging environment
+### 7.2 Insights for challenging environments
+The canvases can also be used to identify potential triggers and patterns that may reveal a challenging environment, which might not be immediately apparent or may initially seem straightforward. Here are some of those indocators:
 
 - **Difficulty Defining the "Purpose of Workshop" or "Outcomes":** If stakeholders struggle to articulate clear goals or success criteria, it may indicate conflicting priorities or a lack of shared understanding.  
 - **Extensive "Hidden Agendas / Politics" Entries:** A long list in this section suggests a highly politicized environment with potential conflicts or resistance.  
@@ -472,9 +367,9 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 - **Only people with questions / only people with answers:** If you realise you only have people from one side in the canvas, you should be clear about its effects. Only people with questions will lead to many assumptions without any chance for clarification during the workshop. Only people with answers, but no-one to ask will make you a bottle neck as facilitator. Sometimes the people with the answers and people with questions can be the same, but with different hidden agendas and/or fears.  
 - **Vague or Contradictory "Context of Workshop":** If stakeholders provide conflicting accounts of the current situation, it may indicate a lack of transparency or underlying issues.
 
----
 
-## 7\. Tips & Best Practices
+
+### 7.3 Tips & Best Practices
 
 - **Keep It Simple:**  
   Do not overload the canvas with text. Aim for clarity and brevity in each box. Depending on the workshop you might not need to fill all the boxes.  
@@ -491,15 +386,13 @@ You can use the canvas together with the outcomes of the workshop to plan furthe
 - **Adapt to Your Context:**  
   Each workshop is different; customize or rename sections if it suits your organization’s language and culture better.
 
----
+
 
 # Conclusion
 
 The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensure a thorough, well-managed, and transparent preparation process. By distinguishing **public** (green) areas that keep everyone aligned from **private** (pink) sections that allow facilitators to strategize on sensitive matters, you can run effective collaborative modelling sessions that engage the right people, focus on the right problems, and yield meaningful outcomes. Use the above documentation and examples as your guide, adapting them to your specific workshop context.  
 
 # Resources:
-[High Res Version](resources/como-prep-canvas-v1-highres.jpg)
-
 [Miro Board Backup](resources/Como%20Prep%20Canvas%20V1.rtb)
 
 [Preview on Miro.com](https://miro.com/app/board/uXjVIFfWUKQ=/)
