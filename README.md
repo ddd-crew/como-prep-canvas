@@ -7,6 +7,10 @@ The canvases are structured into two areas:
 
 ![Collaborative Modeling Workshop Preparation Canvases](resources/como-prep-canvas-v2.jpg)
 
+> *NOTE* This is a work in progress. Currently, we've provided the canvas as an image that you can copy and paste into your preferred tool.
+
+> We plan to create an official template on Miro in the future. Additionally, you'll be able to extend the canvas yourself in tools like Notion. If you do so, we'd love to see your contributions! Please remember to give credit, as the canvas is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## 1\. Who are the canvases for?
 
 The canvases are designed to support everyone facilitating collaborative modelling workshops. However it might provide different value depending on your experience and the the type of workshop:
@@ -25,15 +29,15 @@ The canvas is designed to help you when facing rather challenging settings. It w
 ## 2\. Overall Structure
 
 ### 2.1 Drafting the Workshop
-These canvases serve as a guidance when drafting a workshop. The information gathered is supposed to be discussed and shared in advance with all stakeholders und shapes the goal and structure of the workshop. It contains guiding questions for scoping, planning and designing a CoMo workshop.
+These canvases are designed to guide you in drafting a workshop, whether it's with your team, facilitating it for colleagues within your company, or for clients if you're a consultant. The information you gather using these canvases should first be discussed with the initiator(s). This discussion should then lead to an invitation of the session where all relevant information is shared with all stakeholders, helping to shape the workshop's goals and structure. The canvases include guiding questions for scoping, planning, and designing a CoMo workshop.
 
 #### [2.1.1 Scoping](#3-scoping)
 ![Scoping Canvas](resources/scoping.jpg)
 #### [2.1.2 Workshop Planning & Design](#4-workshop-planning--design)
 ![Workshop Planning & Design](resources/workshop-planning-and-design.jpg)
 
-### 2.2 Personal Preparation
-These Canvases serve for your own preparation and should stay **with the facilitators (and their close collaborators) only** as they contain hidden agendas, assumptions, personal triggers, alternatives on methods, thoughts behind the storyline, and more. They target the rather invisible aspects that are crucial for a successful workshop preparation are split into **People** and **Methods**. The people canvas is designed to create awareness on motivations and hidden agendas of your stakeholders and how knowledge and power are distributed. he method canvas contains different sections that help in designing a consistent storyline throught the workshop and to deep dive on the methods used. 
+### 2.2 Personal Preparation (**Work in Progress**)
+These Canvases serve for your own preparation and should stay **with the facilitators (and their close collaborators) only** as they contain hidden agendas, assumptions, personal triggers, alternatives on methods, thoughts behind the storyline, and more. They target the rather invisible aspects that are crucial for a successful workshop preparation are split into **People** and **Methods**. The people canvas is designed to create awareness on motivations and hidden agendas of your stakeholders and how knowledge and power are distributed. The methods canvas contains different sections that help in designing a consistent storyline throught the workshop and to deep dive on the methods used. 
 
 #### [2.2.1 Peope](#5-people)
 ![Peope Deepdive](resources/personal-preparation-people.jpg)
@@ -54,19 +58,23 @@ This title sets expectations and gives the workshop a clear identity from the ou
 
 **Examples:**
 - “EventStorming Workshop: Improving the Order Fulfillment Process”
-- "Re-Discovery Workshop for the Booking Plattform"
+- "Re-Discovery Workshop for the Booking Platform"
+- "Domain modelling to realign teams"
+- "Aligning architecture with a Bytesized Architecture session"
 
 ### 3.2 Motivation
-This section adresses the "why" of the workshop. Potenital questions you should/could answer are:
-- What led to the workshop?
-- What is the status quo? 
-- How are they/we organised?
-- What does their/your current architecture look like?
-- How much DDD & CoMo knowledge is already present?
-- What are expectations and/or assumptions towards the workshop?
+This section delves into the "why" behind the workshop. Consider answering the following questions to clarify its purpose:
+- What prompted this workshop? What specific situation or challenge led to its initiation?
+- What's the current situation or status quo? Describe the existing conditions, systems, or processes.
+- How are we/they organized? Outline the team structure, departmental setup, or relevant organizational aspects.
+- What does the current architecture look like? Provide an overview of the existing technical or operational architecture.
+- What's the current level of DDD (Domain-Driven Design) and CoMo knowledge within the team/organization?
+- What specific problems are we trying to solve or opportunities are we trying to capture?
 
 **Why it matters:**  
-  It is important that you are clear about the problem you want to solve and the situation your in. Try not to solve too many problems at the same time and pinpoint the challenge you want to tackle in this workshop. The more you know in advance the better you can adapt the workshop format to the needs of the beneficiaries. Additionally, engaging stakeholders in these discussions helps them become more aware of the problem and deepen their understanding, which is already a step towards finding a solution or improving the situation. 
+  It is important that you are clear about the problem you want to solve and the situation your in. Try not to solve too many problems at the same time and pinpoint the challenge you want to tackle in this workshop. The more you know in advance the better you can adapt the workshop format to the needs of the Initiator & beneficiaries. 
+  
+  What's more, getting stakeholders involved in these initial chats can sometimes be super valuable. If you can organise some interviews with some of the stakeholders defined after the initial scoping to improve the motivation. It helps them grasp the problem more fully and deepen their understanding, which is already a huge step toward finding a solution or making things better.
   
 **Examples:**
   - To identify process bottlenecks in our current order-to-delivery workflow and collaboratively propose improvements. 
@@ -75,7 +83,7 @@ This section adresses the "why" of the workshop. Potenital questions you should/
   - Multiple departments (Sales, Warehouse, Shipping) have overlapping responsibilities but lack clear communication.
 
 ### 3.3 Definition of Success
-Think about what should be the outcome of the workshop, like what should change/improve. What are the core goals that must be achieved by the end of the workshop. Make sure to frame it as a win-win situation/chance. It can also include rather non-critical objectives that are beneficial but not mandatory. 
+Think about what the workshop should achieve—what needs to change or improve. What are the core goals that absolutely must be met by the end of the session? Make sure to frame these as a win-win opportunity for everyone involved. You can also include some objectives that would be great to hit but aren't strictly mandatory.
 
 **Why it matters:**  
   A definition of success for a workshop is crucial because it clarifies the objectives, outlining what the workshop aims to achieve. It guides the planning process, helping to design the format and activities to meet specific goals. It also provides a way to measure progress and evaluate the workshop's effectiveness. Ultimately, having a clear definition of success enhances focus, keeping discussions and activities centered on achieving the desired results.
@@ -88,20 +96,19 @@ Think about what should be the outcome of the workshop, like what should change/
 - Agreement on next steps to pilot one key improvement.
 - A shared understanding between the different departments and everyone pulling in the same direction.
 
-### 3.4 First ideas on the Workshop Format
-There is no need at this point to have a concrete agenda set, still it makes sense to define the rough setting of the workhop like timeframe and potential methods.
+### 3.4 Workshop Format: Initial Ideas
+At this stage, there's no need for a concrete agenda. However, it's helpful to start shaping the rough outline of your workshop's format. Think about key elements like the rough time frame, whether that's 1-2 hours, a half-day, or multiple days (1, 2, or even 5 days). You should also consider your initial ideas for methods you might use, such as EventStorming, Domain Storytelling, Context Mapping, User Story Mapping, or Example Mapping.
 
 **Why it matters:**  
   Discussing initial ideas on the workshop format early on is important because it shapes the planning process, ensuring the workshop is structured effectively from the start. It aligns expectations among stakeholders, providing a shared understanding of how the workshop will proceed. It helps to identify the necessary resources and to anticipate and address potential challenges.
 
 **Examples:**
-- 1-2 hours of Desing Level Event Storiming
-- 1/2 day with Event Storming, Context Mapping and User Story Mapping
-- 5 days with Wardley Mapping, Event Storming, Impact Mapping and an Architecture Review
+- 1-2 hours of Design Level EventStormiung
+- 1/2 day with Domain Storytelling and Example Mapping
+- 5 days with Wardley Mapping, Big Picture EventStorming, Impact Mapping and Bytesized Architecture sessions.
 
 ### 3.5 Initiator & Beneficiaries
-The individual or group who had the idea for the workshop or championed its need.  
-    
+Initiator is the person or group who first brought up the idea or identified the need for the workshop. They're the ones who got the ball rolling. Beneficiaries refers to the group or individuals who will directly benefit from the workshop's successful outcome. They're the ones who stand to gain from the changes or improvements the workshop aims to achieve.    
 **Why it matters:**  
   Understanding who brought the workshop to life helps clarify motivations and possible goals. They often provide valuable background information to the status quo and the people involved. They are your lever into the company / department / team, but they might also have their hidden agenda in doing so. Also be clear about who are your beneficiaries, like who actually benefits in the end of the workshop and it's results. Try to find out as much as possible about the beneficiaries throughout the preparation, e.g. fears and individual motivations. But also be aware they might be wrong / it's just one opinion. You can use the Setting the Stage sessions to get more insights yourself.
 
@@ -114,10 +121,19 @@ The individual or group who had the idea for the workshop or championed its need
 Everyone who might be needed for the workshop (e.g. Tech Leads, Developers, Tester, Sales Department, Product Owner, User, Customer, Operations, ...).
     
 **Why it matters:**  
-  [tbd]
+  Thinking through who should be in the room for a collaborative modeling session is absolutely essential. Every person, from Developers to Testers, and from Product Owners, Users to Domain Experts, and especially people who can decide brings a unique and vital perspective. Including these diverse viewpoints isn't just about ticking boxes; it's about building a holistic and accurate understanding of the problem or system you're modeling. When everyone contributes, you not only uncover hidden insights and potential pitfalls early but also foster a shared understanding and stronger buy-in, ultimately leading to more robust solutions and successful outcomes.
 
 **Examples:**
-- ...
+- Software developers
+- Testers
+- Product Managers
+- User researchers
+- Business Analists
+- Agile Coaches
+- Managers
+- Users
+- Ops Engineers
+- .. and all the roles involved and invented in your company in building the software
 
 ## 4\. Drafting the Workshop - Workshop Planning & Design
 
@@ -401,7 +417,14 @@ The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensur
 
 - Beija Nigl ([GitHub](https://github.com/beija), [LinkedIn](https://www.linkedin.com/in/beija-nigl/))
 - Michael Plöd ([GitHub](https://www.github.com/mploed), [LinkedIn](https://www.linkedin.com/in/michael-ploed/))
+- Kenny (Baas) Schwegler ([GitHub](https://www.github.com/baasie), [LinkedIn](https://www.linkedin.com/in/kenny-baas/))
+- Marco Heimeshoff ([GitHub](https://www.github.com/heimeshoff), [LinkedIn](https://www.linkedin.com/in/heimeshoff/))
 
 # Contributors
 
-- Kenny Baas-Schwegler
+- All the [CoMoCamp](https://comocamp.org/) Open Space participants!
+
+# License
+
+The canvas is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).   
+![cc by Sa](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
