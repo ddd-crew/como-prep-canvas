@@ -228,72 +228,72 @@ Proper room setup and the availability of tools are crucial for a seamless works
 
 ## 5\. Personal Preparation - People [WIP]
 
-### 5.3 Individual goals, benefits and motivation, (Potential) fears, hidden agendas & politics
-
-**What to include:**
-- Any potential personal or departmental interests that could shape the workshop’s discussions.  
-- Known conflicts between individuals or teams.  
-- Known or assumed fears of individuals and/or whole teams.  
-- Known or potential team/power dynamics or implicit rules.
+### 5.1 Princial, Initiator & Beneficiaries
+**Principal** is the person or group who authorizes and funds the workshop. Their approval and support are essential for the workshop’s success.
+**Initiator** is the person or group who first brought up the idea or identified the need for the workshop. They're the ones who got the ball rolling.
+**Beneficiaries** refers to the group or individuals who will directly benefit from the workshop's successful outcome. They're the ones who stand to gain from the changes or improvements the workshop aims to achieve.
 
 **Why it matters:**  
-  Being aware of hidden motivations can help you design facilitation techniques that keep the workshop constructive. It also helps you in finding a suitable goal everyone agrees on (win-win situation) and to better navigate group dynamics by understanding their reasoning. 
+Being aware of these roles is crucial for aligning the workshop’s objectives with the broader organizational goals. Understanding who the principal, initiator, and beneficiaries are helps ensure that the workshop addresses the right needs and delivers value to the intended stakeholders.
 
-**Example:**
+**Example:**  
+- The principal may be a senior executive who provides funding, the initiator could be a project manager driving the workshop, and the beneficiaries might be the teams who will implement the solutions discussed.
 
-- The Warehouse team might want to invest in automation; the Logistics team might prefer more manual checks for accuracy.  
-- A manager who is resistant to change may try to block new ideas.
+### 5.2 Participants 
 
-
-### 5.4 Decision makers / People with power
-
-**What to include:**   
-- Key decision-makers for any proposed outcomes or next steps.  
-- Formal Leaders with official titles or authority (e.g., managers, department heads).   
-- Informal Leaders who may not hold official titles but have significant influence or respect within the group.  
-      
-**Why it matters:**  
-  Knowing who has the authority to approve or implement changes will help you manage expectations and ensure that the workshop leads to actionable results. The support and alignment of formal leadership roles are crucial for the success of the workshop as they can interfere unexpectedly. Identifying and engaging with informal leaders can also be essential as their opinion and motivation often highly influences the group dynamics.
-
-**Example:**
-- CFO, since proposed improvements might require budget.  
-- HR Department, if staffing changes might result from process improvements.  
-- Most senior colleagues in the team.
-
-### 5.5 Other Stakeholders
-
-**What to include:**   
-- Individuals or groups not directly in the workshop but potentially affected by the outcomes.  
-- Any high-level sponsors or department heads who might influence or be influenced by the results.
-
+#### 5.2.1 Role(s)
+Identify the various roles participants hold, noting that some individuals may have multiple roles. Consider which perspectives are essential for the workshop's success.
 
 **Why it matters:**  
-  Helps the facilitator consider who to inform or loop in later and plan communication accordingly. Make sure you don't have any people in the workshop which just want to watch. Try to find a task for them as well or offer to inform then afterwards about the results. They often highly influence the group dynamics. 
+Understanding the roles of your participants is crucial because each role brings unique perspectives and priorities to the workshop. Being aware of these roles helps you tailor discussions to be relevant and productive, ensuring that all viewpoints are considered. For example, a Team Lead may prioritize departmental goals, while a Software Engineer focuses on technical feasibility. Recognizing these differences allows you to anticipate potential conflicts, align objectives, and foster collaboration among diverse participants. This awareness ultimately leads to more balanced and effective outcomes.
 
-**Example:**
-- CFO, since proposed improvements might require budget.  
-- HR Department, if staffing changes might result from process improvements.
+**Example:**  
+- Team Lead
+- QA / Tester
+- Architect
+- Sales Manager
+- Key Accountant
+- Software Engineer
+- Product Owner
 
+#### 5.2.2 Individual Goals / Benefits / Motivations
+Recognize personal or departmental goals that could influence the workshop. Determine what benefits participants hope to gain. Understand individual motivations that drive participation.
 
+**Why it matters:**  
+Knowing individual goals helps tailor the workshop to meet participants' needs, increasing engagement and satisfaction.
 
-### 5.6 Communication Strategy
+**Example:**  
+- A participant might be motivated by career advancement opportunities through successful project outcomes.
 
-**What to include:**      
-- How you (the facilitator) plan to communicate with participants and stakeholders before, during, and after the workshop. (when, who, what)  
-- Which channels (email, Slack, in-person, etc.) will be used.
+#### 5.2.3 (Potential) Fears
+Identify known or assumed fears of individuals and/or whole teams. Consider what concerns may arise that could impact participation.
 
+**Why it matters:**  
+Addressing fears can prevent resistance and foster a more open and collaborative environment.
 
-- **Why it matters:**  
-  Proper communication keeps everyone aligned and manages expectations. Depending on the environment it is required to get everyone on board at the same time so no-one feels left out. Sometimes higher management positions refer a prior check in. Make sure you have the participants on your side and motivated for the workshop. 
+**Example:**  
+- Team members might fear that automation could lead to job losses.
 
+#### 5.2.4 (Potential) Hidden Agendas / Politics
+Be aware of any hidden motivations that could affect the workshop. Understand the political landscape and how it may influence discussions.
+
+**Why it matters:**  
+Recognizing hidden agendas helps in managing discussions constructively and ensuring balanced outcomes.
+
+**Example:**  
+- A manager might subtly promote ideas that reinforce their influence within the organization.
+
+### 5.3 Communication Strategy
+A comprehensive communication strategy is crucial for workshop success. It involves planning how you, as the facilitator, will engage with participants and stakeholders at every stage—before, during, and after the workshop. Determine when, who, and what you will communicate. Establish timelines for updates and clarify the roles of participants and stakeholders. Decide on the most effective methods for communication, such as email for detailed information, Slack for real-time interactions, and in-person meetings for more nuanced discussions.
+
+**Why it matters:**  
+Effective communication keeps everyone aligned, manages expectations, and ensures no one feels left out. It's essential to engage participants and motivate them for the workshop. In some cases, higher management may require prior check-ins to feel comfortable and well informed.
 
 **Example:**
 - Pre-workshop questionnaire via email.  
 - Slack channel for real-time Q\&A.  
 - Post-workshop summary circulated to all participants and sponsors.  
 - Setting the stage sessions with all participants before the workshop
-
-
 
 ## 6\. Personal Preparation - Methods [WIP]
 
