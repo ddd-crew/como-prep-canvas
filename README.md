@@ -202,7 +202,7 @@ Knowing whom to invite is essential because it ensures that the workshop is prod
 - Two people form the financial department (they will figure out who will join within the team)
 
 ### 4.5 Collaborative Modelling Methods
-Identify which collaborative modeling methods you plan to use. Consider how these methods will impact the agenda and the room setup. Determine if there are any resources or materials that should be shared with participants in advance to enhance preparation and engagement.
+Identify which collaborative modelling methods you plan to use. Consider how these methods will impact the agenda and the room setup. Determine if there are any resources or materials that should be shared with participants in advance to enhance preparation and engagement.
 
 **Why it matters:**  
 The choice of modeling methods directly influences the workshop's structure and effectiveness. Different methods may require specific room layouts, tools, or materials, impacting logistics and planning. Sharing resources beforehand ensures participants are well-prepared, facilitating a smoother and more productive session. Additionally, the right methods foster engagement and collaboration, leading to more meaningful outcomes.
@@ -213,9 +213,10 @@ The choice of modeling methods directly influences the workshop's structure and 
 - User Story Mapping – Sticky notes and printed screen designs
 - Impact Mapping – Flip charts/whiteboard, sticky notes, and markers
 - Context Mapping in small groups – Round tables, flip charts, and sticky notes
+- Example Mapping in group of 4-5 - Tables with different colors index cards, sharpies.
 
 ### 4.6 Room Setup / Tools Needed
-Identify the tools and equipment required for the workshop and determine who will provide what. Think about wheather you are able / need prepare the room in advance (if onsite) and when this is possible. Consider the room setup like seeting, needed walls, flipcharts, stickies, layout needed to accommodate collaborative activities and ensure all necessary materials are available.
+Identify the tools and equipment needed for the workshop and determine who will provide them. Consider if the room needs to be prepared in advance (if onsite) and when that's possible. Think about the room setup, including seating, walls, flipcharts, and stickies, to ensure the layout accommodates collaborative activities and all necessary materials are available. For a virtual setting, consider what tools to use and what preparations are needed, such as setting up break-out rooms or organizer rights.
 
 **Why it matters:**  
 Proper room setup and the availability of tools are crucial for a seamless workshop experience. The right environment enhances participant engagement, supports the chosen collaborative methods, and minimizes disruptions. Being well-prepared ensures that the workshop runs smoothly and that participants can focus on the content rather than logistical issues.
@@ -225,6 +226,141 @@ Proper room setup and the availability of tools are crucial for a seamless works
 - Ensure a projector and screen are set up for presentations.
 - Provide sticky notes, markers, and flip charts for brainstorming sessions.
 - Confirm Wi-Fi access for participants.
+
+### Optional Fields
+
+#### Flight level
+Decide on the appropriate flight level for the modelling session, ranging from a high-level strategic overview to a fine-grained, action-oriented plan. The flight level determines the level of detail and the scope of the discussion, influencing the techniques and tools you will use. A clear flight level ensures everyone is on the same page and working towards a common goal.
+
+**Why it matters:**  
+The flight level helps you manage expectations and keeps the workshop focused. If participants have different ideas about the level of detail, it can lead to confusion and unproductive discussions. By aligning on a specific flight level, you can tailor the workshop to the participants' needs and ensure the outcomes are relevant. It also helps to determine which stakeholders to invite, ensuring the right people are in the room to make the necessary decisions and contributions.
+
+**Example:**
+- Strategic: High-level overview of the entire value stream, focusing on business processes and dependencies between different departments.
+- Tactical: Analyzing a specific business process, such as order fulfilment, to identify bottlenecks and opportunities for improvement.
+- Code-level: Diving into the technical implementation of a microservice to identify areas for refactoring or to understand its dependencies on other services.
+- Product-level: Focusing on a single product or service to define its features and user journey.
+
+#### Artifacts / Documentation
+Consider what kind of documentation or artifacts you want to create during and after the workshop. These can range from a simple photo of the whiteboard to a detailed report or a working code prototype. The type of documentation you create depends on the workshop's goal and the audience you want to share the results with.
+
+**Why it matters:**  
+Documentation is crucial for preserving the workshop's outcomes and ensuring the decisions and insights gained are not lost. It serves as a single source of truth, allowing participants to refer back to it and share it with others who couldn't attend. It also helps with the follow-up, ensuring everyone knows what needs to be done next. By deciding on the artifacts in advance, you can prepare the necessary tools and ensure someone is responsible for creating them.
+
+**Example:**
+- A photo of the whiteboard with all the sticky notes and drawings.
+- A digital copy of the model created in a collaboration tool like Miro or Mural.
+- A written summary of the workshop's key findings, decisions, and next steps.
+- A detailed report with diagrams, user stories, and a plan for implementation.
+- A backlog of user stories created during the session.
+
+#### Potential Follow-up
+Think about what happens after the workshop ends. The outcomes of the session should not be the end of the journey but a step towards a bigger goal. Consider what next steps need to be taken, who is responsible for them, and how they will be tracked.
+
+**Why it matters:**  
+A workshop is only as valuable as the actions that follow it. By thinking about the follow-up in advance, you ensure the momentum is not lost and the outcomes are put into practice. It helps participants understand that their contributions matter and that their work will lead to tangible results. It also helps to set realistic expectations and prevents the workshop from becoming a one-off event with no lasting impact.
+
+**Example:**
+- A follow-up meeting to present the workshop results to the leadership team.
+- A second workshop to dive deeper into a specific area identified as a bottleneck.
+- A presentation to other teams to share the knowledge and decisions gained.
+- A project plan based on the outcomes of the session.
+- Individual tasks for participants to take on.
+
+#### Decision-making style
+Decide how decisions will be made during the workshop and which decisions need to be made. The decision-making style can range from autocratic with a command or proposal to democratic given an idea or just the problem, and it is important to be clear about it from the beginning. Additionally, be specific about which decisions can and need to be made during the workshop.
+
+**Why it matters:**  
+Decision-making is a critical part of any collaborative session. Without a clear style, discussions can go on forever, leading to frustration, conflicts, resistance and a lack of progress. By setting the ground rules in advance, you ensure the workshop remains productive and on track. It also helps to manage expectations and empowers participants to contribute effectively, knowing how their input will be used.
+
+**Example:**
+- Autocratic: A single person makes the final call.
+  - Command: A project manager hears everyone's input before making the final decision.
+  - Proposal: An architect gathers input and proposes a decision, which can only be overturned if a significant risk is identified by the team.
+- Democratic: A decision is reached through a vote, with the majority winning.
+  - Idea: The Product Owner presents a problem and an idea for a solution. The group then votes, and the majority decision is accepted, with minority needs being considered.
+  - Problem: The group is presented with a problem and votes on a solution. The majority decision is accepted, with minority needs being considered.
+- Consensus: The group discusses an issue until everyone agrees on a solution.
+- Consultative: The team provides input, but the final decision is made by a designated leader, like a tech lead.
+- Decisions to be made:
+  - Which component should be refactored first?
+  - What is the priority of the user stories?
+  - Should we use this technology or that one?
+- Decisions not to be made:
+  - Changing the project's overall budget or deadline.
+  - Changing team structure
+
+### Participants (Names & Roles)
+A clear list of participants is fundamental for a successful workshop. It sometimes is not enough to simply list names; you also want to understand their roles and why they are being invited. The participant list should include not only those who need a solution but also individuals with specialized knowledge or expertise and, crucially, anyone with the authority to make decisions.
+
+**Why it matters:**  
+Knowing who is in the room can be critical because it ensures you have the right mix of perspectives and knowledge to address the problem effectively. A well-curated participant list balances the group with both questioners and experts, which prevents the facilitator from becoming the sole source of inquiry. This strategic selection enhances collaboration, ensures all relevant issues are addressed, and maximizes the workshop's impact by involving those who can drive outcomes and implement changes. Having a clear list also makes it easier to communicate with participants and manage logistics.
+
+**Example:**
+- Jessica (Senior Warehouse Manager): Provides critical domain knowledge on current inventory processes and operational constraints.
+- Dan (New IT Project Lead): Represents the technical team and has authority over resource allocation for a new software solution.
+- Peter, Sandra, Ming & Laura (Dev Team): The people who will build the solution and have the on-the-ground technical expertise.
+- Shanice (Shipping Specialist, 15 years experience): A long-time employee whose deep knowledge of historical issues and workarounds is invaluable.
+- Rhea (Business Analyst, joined 3 months ago): Brings a fresh, objective perspective and can ask the naive questions that uncover hidden assumptions.
+- Two people from the financial department: This leaves the decision of who will attend up to that department, ensuring the most relevant people can be there, while still making it clear they are a necessary stakeholder group.
+
+#### Food & Socializing
+For workshops that last a full day or more an opportunity is presented to plan for food and opportunities to socialize. This includes deciding on meals, snacks, and drinks, as well as considering social activities that can help participants connect on a more personal level.
+
+**Why it matters:**  
+Workshops, especially multi-day ones, can be mentally draining. Providing quality food and breaks helps to sustain participants' energy and focus. Furthermore, shared meals and social activities outside of the formal workshop structure create an informal environment where participants can build trust and rapport. These conversations often lead to breakthroughs and a deeper understanding of one another, which can be invaluable for the collaborative work being done. Just be sure that for a lot of people social activities added to the already social draining sessions can be a burden, so be sure to check everyone's need!
+
+**Example:**
+- Meals: Arranging for a catered lunch on-site to keep the flow going, or booking a table at a nearby restaurant for participants to connect over a shared meal.
+- Breaks: Providing a continuous supply of coffee, tea, and snacks throughout the day, and scheduling short, intentional breaks to prevent burnout.
+- Social Activity: Planning a team dinner or an informal after-hours activity (e.g., a group walk, a pub visit) on the first day to help everyone relax and get to know each other.
+
+#### Code of Conduct / Working Agreement
+Create a code of conduct or working agreement for the workshop. This can be a simple list of rules that everyone agrees to follow to ensure a productive and respectful environment. It helps to set the tone and ensure everyone feels safe to contribute. Be sure to validate it at the start of your session if everyone's agreeing with it and if there need to be more.
+
+**Why it matters:**  
+A code of conduct provides a framework for how participants should interact with each other. It helps to prevent conflicts and ensures that everyone's voice is heard. By co-creating the rules, participants feel a sense of ownership and are more likely to follow them. It also helps the facilitator to intervene if a situation becomes unproductive or disrespectful.
+
+**Example:**
+- Nobody hold the monopoly to the truth, we listen to the 'no'
+- Respect others' opinions: Even if you disagree, listen to what they have to say.
+- Timeboxing: Stick to the allocated time for each activity.
+- No laptops/phones: Be present and focused on the task at hand.
+- One conversation at a time: Avoid sidebar conversations to ensure everyone can hear.
+- "Vegas Rule": What is said in the room, stays in the room.
+- "Parking Lot": Use a parking lot for discussions that are out of scope.
+
+### Overcoming Resistance & Securing Buy-In
+It's common for participants and stakeholders not to immediately see the value of a workshop. This section is about planning non-coercive techniques to engage them and earn their commitment. It involves proactively addressing potential resistance and ensuring that key people are genuinely bought into the process.
+
+**Why it matters:**  
+Without buy-in, even the best-designed workshop can fail. Participants who feel forced to be there or don't understand the purpose will likely disengage, and their resistance can spread to others. By anticipating this and planning to address it with non-coercive methods, you create a more positive and productive environment. This proactive approach builds trust, respects people's time, and ensures that the workshop's outcomes have a much better chance of being implemented.
+
+#### Do we have buy-in?
+This is a critical, self-reflective question to ask during the planning phase. It involves assessing whether the key participants and decision-makers genuinely believe in the value of the workshop's goals. This isn't just about them saying "yes," but about understanding if they are willing to invest their time and energy.
+
+**Example:**
+- Assessing Buy-in:
+  - Have the project sponsor and key leaders publicly endorsed the workshop?
+  - Have the participants themselves expressed interest or helped shape the agenda?
+  - Is there a clear, shared understanding of what success looks like?
+- Actions to secure buy-in:
+  - Having one-on-one conversations with reluctant participants beforehand to understand their concerns.
+  - Involving a key stakeholder in the planning to co-design the agenda.
+  - Clearly articulating the "what's in it for me?" for each participant.
+
+#### Overcoming Resistance
+Resistance is a normal part of change. Instead of seeing it as a problem, view it as a signal that something important has been overlooked, what has to be said that has not been said yet? This subsection is about identifying the sources of potential resistance and planning how to address them respectfully.
+
+**Example:**
+- Identifying Resistance:
+  - Source: "We've tried this before, and it didn't work."
+  - Technique: Acknowledge their past experience. "You're right, that's a fair point. What was different last time, and what can we do to ensure this is a success?"
+  - Source: "This is a waste of time. I have real work to do."
+  - Technique: Connect the workshop's goal directly to their "real work." "I understand your time is valuable. The goal of this workshop is to fix the bottleneck that's causing X, which should save you time in the long run."
+  - Source: "I don't trust the outcome will actually be implemented."
+  - Technique: Be transparent about the follow-up plan. "That's a very important point. At the end of the workshop, we'll decide on concrete next steps, and we'll track those actions as a group."
+
 
 ## 5\. Personal Preparation - People [WIP]
 
