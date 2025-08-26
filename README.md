@@ -228,6 +228,7 @@ Proper room setup and the availability of tools are crucial for a seamless works
 - Confirm Wi-Fi access for participants.
 
 ### Optional Fields
+The following sections contain an (incomplete) list of possible additions and deep dives that might bring useful insights depending on the situation. Be aware to not over complicate the canvas (premature optimasation) but only add the fields that acutally provide value to your workshop.
 
 #### Flight level
 Decide on the appropriate flight level for the modelling session, ranging from a high-level strategic overview to a fine-grained, action-oriented plan. The flight level determines the level of detail and the scope of the discussion, influencing the techniques and tools you will use. A clear flight level ensures everyone is on the same page and working towards a common goal.
@@ -245,7 +246,7 @@ The flight level helps you manage expectations and keeps the workshop focused. I
 Consider what kind of documentation or artifacts you want to create during and after the workshop. These can range from a simple photo of the whiteboard to a detailed report or a working code prototype. The type of documentation you create depends on the workshop's goal and the audience you want to share the results with.
 
 **Why it matters:**  
-Documentation is crucial for preserving the workshop's outcomes and ensuring the decisions and insights gained are not lost. It serves as a single source of truth, allowing participants to refer back to it and share it with others who couldn't attend. It also helps with the follow-up, ensuring everyone knows what needs to be done next. By deciding on the artifacts in advance, you can prepare the necessary tools and ensure someone is responsible for creating them.
+Documentation is crucial for preserving the workshop's outcomes and ensuring the decisions and insights gained are not lost. It serves as a single source of truth, allowing participants to refer back to it and share it with others who couldn't attend. It also helps with the follow-up, ensuring everyone knows what needs to be done next. By deciding on the artifacts in advance, you can set expectaions, prepare the necessary tools and ensure someone is responsible for creating them.
 
 **Example:**
 - A photo of the whiteboard with all the sticky notes and drawings.
@@ -268,7 +269,7 @@ A workshop is only as valuable as the actions that follow it. By thinking about 
 - Individual tasks for participants to take on.
 
 #### Decision-making style
-Decide how decisions will be made during the workshop and which decisions need to be made. The decision-making style can range from autocratic with a command or proposal to democratic given an idea or just the problem, and it is important to be clear about it from the beginning. Additionally, be specific about which decisions can and need to be made during the workshop.
+Decide how decisions will be made during the workshop and which decisions need to be made. The decision-making style can range from autocratic with a command or proposal to democratic given an idea or just the problem. It is important to be clear about it from the beginning. Additionally, be specific about which decisions can and need to be made during the workshop and which can / will **not** be taken. In case decisions need to be taken check if you have the right people in the workshop.
 
 **Why it matters:**  
 Decision-making is a critical part of any collaborative session. Without a clear style, discussions can go on forever, leading to frustration, conflicts, resistance and a lack of progress. By setting the ground rules in advance, you ensure the workshop remains productive and on track. It also helps to manage expectations and empowers participants to contribute effectively, knowing how their input will be used.
@@ -291,7 +292,9 @@ Decision-making is a critical part of any collaborative session. Without a clear
   - Changing team structure
 
 ### Participants (Names & Roles)
-A clear list of participants is fundamental for a successful workshop. It sometimes is not enough to simply list names; you also want to understand their roles and why they are being invited. The participant list should include not only those who need a solution but also individuals with specialized knowledge or expertise and, crucially, anyone with the authority to make decisions.
+A clear list of participants is fundamental for a successful workshop. It sometimes is not enough to simply list names; you also want to understand their roles and why they are being invited. The participant list should include not only those who need a solution but also individuals with specialized knowledge or expertise and, crucially, anyone with the authority to make decisions (in case they need to be taken). 
+
+*This section is an extension of [Participants](#44-participants) and can be used as replacement if needed*
 
 **Why it matters:**  
 Knowing who is in the room can be critical because it ensures you have the right mix of perspectives and knowledge to address the problem effectively. A well-curated participant list balances the group with both questioners and experts, which prevents the facilitator from becoming the sole source of inquiry. This strategic selection enhances collaboration, ensures all relevant issues are addressed, and maximizes the workshop's impact by involving those who can drive outcomes and implement changes. Having a clear list also makes it easier to communicate with participants and manage logistics.
@@ -305,7 +308,7 @@ Knowing who is in the room can be critical because it ensures you have the right
 - Two people from the financial department: This leaves the decision of who will attend up to that department, ensuring the most relevant people can be there, while still making it clear they are a necessary stakeholder group.
 
 #### Food & Socializing
-For workshops that last a full day or more an opportunity is presented to plan for food and opportunities to socialize. This includes deciding on meals, snacks, and drinks, as well as considering social activities that can help participants connect on a more personal level.
+For workshops that last a full day or more an opportunity you should plan for food and opportunities to socialize. This includes deciding on meals, snacks, and drinks, as well as social activities that can help participants connect on a more personal level. 
 
 **Why it matters:**  
 Workshops, especially multi-day ones, can be mentally draining. Providing quality food and breaks helps to sustain participants' energy and focus. Furthermore, shared meals and social activities outside of the formal workshop structure create an informal environment where participants can build trust and rapport. These conversations often lead to breakthroughs and a deeper understanding of one another, which can be invaluable for the collaborative work being done. Just be sure that for a lot of people social activities added to the already social draining sessions can be a burden, so be sure to check everyone's need!
@@ -313,7 +316,7 @@ Workshops, especially multi-day ones, can be mentally draining. Providing qualit
 **Example:**
 - Meals: Arranging for a catered lunch on-site to keep the flow going, or booking a table at a nearby restaurant for participants to connect over a shared meal.
 - Breaks: Providing a continuous supply of coffee, tea, and snacks throughout the day, and scheduling short, intentional breaks to prevent burnout.
-- Social Activity: Planning a team dinner or an informal after-hours activity (e.g., a group walk, a pub visit) on the first day to help everyone relax and get to know each other.
+- Social Activity: Planning a team dinner or an informal after-hours activity (e.g., a group walk, a pub visit, Bowling) on the first day to help everyone relax and get to know each other.
 
 #### Code of Conduct / Working Agreement
 Create a code of conduct or working agreement for the workshop. This can be a simple list of rules that everyone agrees to follow to ensure a productive and respectful environment. It helps to set the tone and ensure everyone feels safe to contribute. Be sure to validate it at the start of your session if everyone's agreeing with it and if there need to be more.
