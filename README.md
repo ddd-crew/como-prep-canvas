@@ -548,7 +548,7 @@ The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensur
 # Resources:
 [Miro Board Backup](resources/Como%20Prep%20Canvas%20V1.rtb)
 
-[Preview on Miro.com](https://miro.com/app/board/uXjVIFfWUKQ=/)
+[Preview on Miro.com](https://miro.com/app/board/uXjVJP8Fbzc=/)
 
 # Authors
 
