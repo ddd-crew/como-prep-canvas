@@ -11,7 +11,18 @@ The canvases are structured into two main areas:
 
 > We plan to create an official template on Miro in the future. Additionally, you'll be able to extend the canvas yourself in tools like Notion. If you do so, we'd love to see your contributions! Please remember to give credit, as the canvas is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## 1\. Who are the canvases for?
+## Summary
+1. [Who are the canvases for](#1-who-are-the-canvases-for)
+2. [Overall Structure](#2-overall-structure)
+3. [Drafting the Workshop - Scoping](#3-drafting-the-workshop---scoping)
+4. [Drafting the Workshop - Workshop Planning \& Design](#4-drafting-the-workshop---workshop-planning--design)
+5. [Personal Preparation - People \[WIP\]](#5-personal-preparation---people-wip)
+6. [Personal Preparation - Methods \[WIP\]](#6-personal-preparation---methods-wip)
+7. [How to use this canvas](#7-how-to-use-this-canvas)
+
+
+
+## 1\. Who are the canvases for
 
 The canvases are designed to support everyone facilitating collaborative modelling workshops. However it might provide different value depending on your experience and the the type of workshop:
 
@@ -31,17 +42,17 @@ The canvas is designed to help you when facing rather challenging settings. It w
 ### 2.1 Drafting the Workshop
 These canvases are designed to guide you in drafting a workshop, whether it's with your team, facilitating it for colleagues within your company, or for clients if you're a consultant. The information you gather using these canvases should first be discussed with the initiator(s). This discussion should then lead to an invitation of the session where all relevant information is shared with all stakeholders, helping to shape the workshop's goals and structure. The canvases include guiding questions for scoping, planning, and designing a CoMo workshop.
 
-#### [2.1.1 Scoping](#3-scoping)
+#### 2.1.1 Scoping ([3. Drafting the Workshop - Scoping](#3-drafting-the-workshop---scoping))
 ![Scoping Canvas](resources/scoping.jpg)
-#### [2.1.2 Workshop Planning & Design](#4-workshop-planning--design)
+#### 2.1.2 Workshop Planning & Design ([4. Drafting the Workshop - Workshop Planning & Design](#4-drafting-the-workshop---workshop-planning--design))
 ![Workshop Planning & Design](resources/workshop-planning-and-design.jpg)
 
 ### 2.2 Personal Preparation (**Work in Progress**)
 These Canvases serve for your own preparation and should stay **with the facilitators (and their close collaborators) only** as they contain hidden agendas, assumptions, personal triggers, alternatives on methods, thoughts behind the storyline, and more. They target the rather invisible aspects that are crucial for a successful workshop preparation are split into **People** and **Methods**. The people canvas is designed to create awareness on motivations and hidden agendas of your stakeholders and how knowledge and power are distributed. The methods canvas contains different sections that help in designing a consistent storyline throught the workshop and to deep dive on the methods used. 
 
-#### [2.2.1 People](#5-people)
+#### 2.2.1 People ([5. Personal Preparation - People](#5-personal-preparation---people-wip))
 ![Peope Deepdive](resources/personal-preparation-people.jpg)
-#### [2.2.2 Methods](#6-methods)
+#### 2.2.2 Methods([6. Personal Preparation - Methods](#6-personal-preparation---methods-wip))
 ![Methods Deepdive](resources/personal-preparation-methods.jpg)
 
 
@@ -88,7 +99,7 @@ Think about what the workshop should achieve—what needs to change or improve. 
 **Why it matters:**  
 A definition of success for a workshop is crucial because it clarifies the objectives, outlining what the workshop aims to achieve. It guides the planning process, helping to design the format and activities to meet specific goals. It also provides a way to measure progress and evaluate the workshop's effectiveness. Ultimately, having a clear definition of success enhances focus, keeping discussions and activities centered on achieving the desired results.
   
-It aligns participants by ensuring everyone understands the purpose and expected outcomes, providing a baseline so all enter the workshop on the same page. This should be shared beforehand and at the start of the workshop. Being aware of participants' potential fears and motivations is also beneficial (see more in section [5.3 Individual goals, benefits and motivation, (Potential) fears, hidden agendas & politics](#53-individual-goals-benefits-and-motivation-potential-fears-hidden-agendas--politics)).
+It aligns participants by ensuring everyone understands the purpose and expected outcomes, providing a baseline so all enter the workshop on the same page. This should be shared beforehand and at the start of the workshop. Being aware of participants' potential fears and motivations is also beneficial (see more in section [5.2 Participants](#52-participants)).
 
 **Examples:**
 - A shared understanding of the “Order Fulfillment” domain and key events and a clear way forward.  
@@ -227,7 +238,7 @@ Proper room setup and the availability of tools are crucial for a seamless works
 - Provide sticky notes, markers, and flip charts for brainstorming sessions.
 - Confirm Wi-Fi access for participants.
 
-### Optional Fields
+### 4.7 Optional Fields
 The following sections contain an (incomplete) list of possible additions and deep dives that might bring useful insights depending on the situation. Be aware to not over complicate the canvas (premature optimasation) but only add the fields that acutally provide value to your workshop.
 
 #### Flight level
@@ -291,10 +302,10 @@ Decision-making is a critical part of any collaborative session. Without a clear
   - Changing the project's overall budget or deadline.
   - Changing team structure
 
-### Participants (Names & Roles)
+#### Participants (Names & Roles)
 A clear list of participants is fundamental for a successful workshop. It sometimes is not enough to simply list names; you also want to understand their roles and why they are being invited. The participant list should include not only those who need a solution but also individuals with specialized knowledge or expertise and, crucially, anyone with the authority to make decisions (in case they need to be taken). 
 
-*This section is an extension of [Participants](#44-participants) and can be used as replacement if needed*
+*This section is an extension of [4.4 Participants](#44-participants) and can be used as replacement if needed*
 
 **Why it matters:**  
 Knowing who is in the room can be critical because it ensures you have the right mix of perspectives and knowledge to address the problem effectively. A well-curated participant list balances the group with both questioners and experts, which prevents the facilitator from becoming the sole source of inquiry. This strategic selection enhances collaboration, ensures all relevant issues are addressed, and maximizes the workshop's impact by involving those who can drive outcomes and implement changes. Having a clear list also makes it easier to communicate with participants and manage logistics.
@@ -333,7 +344,7 @@ A code of conduct provides a framework for how participants should interact with
 - "Vegas Rule": What is said in the room, stays in the room.
 - "Parking Lot": Use a parking lot for discussions that are out of scope.
 
-### Overcoming Resistance & Securing Buy-In
+#### Overcoming Resistance & Securing Buy-In
 It's common for participants and stakeholders not to immediately see the value of a workshop. This section is about planning non-coercive techniques to engage them and earn their commitment. It involves proactively addressing potential resistance and ensuring that key people are genuinely bought into the process.
 
 **Why it matters:**  
