@@ -378,24 +378,20 @@ Resistance is a normal part of change. Instead of seeing it as a problem, view i
 
 ## 5\. Personal Preparation - People [WIP]
 
-### 5.1 Princial, Initiator & Beneficiaries
-**Principal** is the person or group who authorizes and funds the workshop. Their approval and support are essential for the workshop’s success.
-**Initiator** is the person or group who first brought up the idea or identified the need for the workshop. They're the ones who got the ball rolling.
-**Beneficiaries** refers to the group or individuals who will directly benefit from the workshop's successful outcome. They're the ones who stand to gain from the changes or improvements the workshop aims to achieve.
+Workshops don’t happen in neutral space. They’re shaped by the people in the room, their motivations, roles, and personal experiences. While goals, formats, and logistics are visible at the surface, most of what influences collaboration sits below it: assumptions, behavioural patterns, personal triggers, power dynamics, and implicit expectations. Ignoring this layer doesn’t make it disappear; it usually resurfaces later as tension, silence, or resistance.
 
-**Why it matters:**  
-Being aware of these roles is crucial for aligning the workshop’s objectives with the broader organizational goals. Understanding who the principal, initiator, and beneficiaries are helps ensure that the workshop addresses the right needs and delivers value to the intended stakeholders.
+The People Canvas helps you prepare for these deeper dynamics. It’s not about fixing people but about recognising patterns, anticipating reactions, and designing conditions where different perspectives can contribute safely and productively. It’s also about making your observations, assumptions, and biases explicit and tangible. 
 
-**Example:**  
-- The principal may be a senior executive who provides funding, the initiator could be a project manager driving the workshop, and the beneficiaries might be the teams who will implement the solutions discussed.
+Understanding what lies below the surface makes facilitation more resilient. It helps you address potential issues before the workshop by adapting your methods, moderation style, participant mix, room setup, or communication strategy, for example through additional scoping rounds or setting-the-stage sessions with different stakeholder groups.
 
-### 5.2 Participants 
+### 5.1 The Participants 
+Understanding who participates in a workshop is more than collecting names. Each participant brings roles, motivations, assumptions, and behavioural patterns that influence how the session unfolds. Preparing for these factors helps you anticipate friction, align expectations, and create conditions for productive collaboration. Think about grouping / sorting the participants by teams, roles, experience or rank to have a better overview.
 
-#### 5.2.1 Role(s)
+#### 5.1.1 Role(s)
 Identify the various roles participants hold, noting that some individuals may have multiple roles. Consider which perspectives are essential for the workshop's success.
 
 **Why it matters:**  
-Understanding the roles of your participants is crucial because each role brings unique perspectives and priorities to the workshop. Being aware of these roles helps you tailor discussions to be relevant and productive, ensuring that all viewpoints are considered. For example, a Team Lead may prioritize departmental goals, while a Software Engineer focuses on technical feasibility. Recognizing these differences allows you to anticipate potential conflicts, align objectives, and foster collaboration among diverse participants. This awareness ultimately leads to more balanced and effective outcomes.
+Roles shape influence, perspectives, and how decisions are perceived. Each role brings its own perspectives, knowledge, and priorities. Knowing who is responsible for which area, their formal power, and whether they are internal or external allows you to design activities that account for authority, access to information, and potential gaps in perspective. Being aware of these roles helps you tailor discussions to be relevant and productive, ensuring all viewpoints are considered. For example, a Team Lead may prioritize departmental goals, while a Software Engineer focuses on technical feasibility. Recognizing these differences allows you to anticipate potential conflicts, align objectives, and foster collaboration among diverse participants. This awareness supports more balanced and effective outcomes.
 
 **Example:**  
 - Team Lead
@@ -406,44 +402,85 @@ Understanding the roles of your participants is crucial because each role brings
 - Software Engineer
 - Product Owner
 
-#### 5.2.2 Individual Goals / Benefits / Motivations
-Recognize personal or departmental goals that could influence the workshop. Determine what benefits participants hope to gain. Understand individual motivations that drive participation.
+#### 5.1.2 Individual Goals / Benefits / Motivations
+Participants bring personal objectives and expectations to the workshop. These can range from solving technical problems to gaining visibility, validating assumptions, or protecting processes. Try to recognize and understand the personal or departmental goals and determine what benefits the participants hope to gain from the workshop.
 
 **Why it matters:**  
-Knowing individual goals helps tailor the workshop to meet participants' needs, increasing engagement and satisfaction.
+Explicitly understanding individual goals helps anticipate alignment or conflict and ensures the session addresses both collective and personal outcomes. Misaligned goals can create tension, disengagement, or hidden resistance. Recognising motivations also allows you to frame activities and discussions so that participants see value in contributing.
 
 **Example:**  
-- A participant might be motivated by career advancement opportunities through successful project outcomes.
+- Better career advancement opportunities
+- Less work for the team
+- Option to work on new (cool) features
+- Supporting others
+- Fear to loos their job
+- Desire to validate a technical decision or assumption
+- Protecting a process or deliverable
+- Learning, visibility, or influence within the organisation
 
-#### 5.2.3 (Potential) Fears
-Identify known or assumed fears of individuals and/or whole teams. Consider what concerns may arise that could impact participation.
+#### 5.1.3 (Potential) Shadows and Behavioural Patterns
+Beyond visible goals and roles, participants may bring patterns of behaviour or underlying dynamics that influence interactions Identify fears, concerns, assumptions and prejudices of individuals and/or whole teams that could impact participation.
 
 **Why it matters:**  
-Addressing fears can prevent resistance and foster a more open and collaborative environment.
+Hidden agendas, habitual resistance, or recurring interpersonal dynamics can affect the session’s flow and outcomes. Mapping these patterns in advance allows the facilitator to structure the workshop to surface tension safely and productively rather than letting it derail collaboration.
 
 **Example:**  
-- Team members might fear that automation could lead to job losses.
+- Dominant voices or habitual interrupters
+- Silent observers who influence group decisions indirectly
 
-#### 5.2.4 (Potential) Hidden Agendas / Politics
-Be aware of any hidden motivations that could affect the workshop. Understand the political landscape and how it may influence discussions.
+#### 5.1.4 Your thoughts / assumptions / personal risks & biases
+Facilitators themselves bring assumptions, experiences, and potential biases to the workshop.
 
-**Why it matters:**  
-Recognizing hidden agendas helps in managing discussions constructively and ensuring balanced outcomes.
+**Why it matters:**
+Being aware of your own perspective helps prevent it from unintentionally shaping interpretations, decisions, or interventions. Explicit reflection supports impartial facilitation, allows you to anticipate participant behaviour more accurately, and informs the design of interventions that respect diverse viewpoints.
 
-**Example:**  
-- A manager might subtly promote ideas that reinforce their influence within the organization.
+**Examples:**
+- Preconceptions about participants’ motivations or expertise
+- Personal triggers that could influence facilitation style
+- Biases that may affect interpretation of group dynamics
 
-### 5.3 Communication Strategy
+### 5.2 Communication Strategy
 A comprehensive communication strategy is crucial for workshop success. It involves planning how you, as the facilitator, will engage with participants and stakeholders at every stage—before, during, and after the workshop. Determine when, who, and what you will communicate. Establish timelines for updates and clarify the roles of participants and stakeholders. Decide on the most effective methods for communication, such as email for detailed information, Slack for real-time interactions, and in-person meetings for more nuanced discussions.
 
 **Why it matters:**  
 Effective communication keeps everyone aligned, manages expectations, and ensures no one feels left out. It's essential to engage participants and motivate them for the workshop. In some cases, higher management may require prior check-ins to feel comfortable and well informed.
 
 **Example:**
-- Pre-workshop questionnaire via email.  
-- Slack channel for real-time Q\&A.  
-- Post-workshop summary circulated to all participants and sponsors.  
 - Setting the stage sessions with all participants before the workshop
+- Short Kick-Off Meeting with all stakeholders before the workshop series
+- Pre-workshop questionnaire via email
+- Slack channel for real-time Q&A
+- Post-workshop summary circulated to all participants and sponsors
+
+### 5.3 The Group
+
+#### 5.3.1 Behavioural Patterns observed in the group
+They might give you more insights on conflicts, power dynamics, ...
+
+#### 5.3.2 Your thoughts / assumptions / personal risks & biases
+You see things happening, what thoughts go through your mind,
+which emotions are triggered
+
+### 5.4 Symbols of Power / Ranking
+
+### 5.5 Personal Risks / Conflicts (Introspection)
+
+### 5.6 Polarities
+
+### 5.7 Optional Fields
+
+The following sections contain an (incomplete) list of possible additions and deep dives that might bring useful insights depending on the situation. Be aware to not over complicate the canvas (premature optimasation) but only add the fields that acutally provide value to your workshop.
+
+#### Princial, Initiator & Beneficiaries
+**Principal** is the person or group who authorizes and funds the workshop. Their approval and support are essential for the workshop’s success.
+**Initiator** is the person or group who first brought up the idea or identified the need for the workshop. They're the ones who got the ball rolling.
+**Beneficiaries** refers to the group or individuals who will directly benefit from the workshop's successful outcome. They're the ones who stand to gain from the changes or improvements the workshop aims to achieve.
+
+**Why it matters:**  
+Being aware of these roles is crucial for aligning the workshop’s objectives with the broader organizational goals. Understanding who the principal, initiator, and beneficiaries are helps ensure that the workshop addresses the right needs and delivers value to the intended stakeholders.
+
+**Example:**  
+- The principal may be a senior executive who provides funding, the initiator could be a project manager driving the workshop, and the beneficiaries might be the teams who will implement the solutions discussed.
 
 ## 6\. Personal Preparation - Methods [WIP]
 
