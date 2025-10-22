@@ -418,28 +418,65 @@ Explicitly understanding individual goals helps anticipate alignment or conflict
 - Protecting a process or deliverable
 - Learning, visibility, or influence within the organisation
 
-#### 5.1.3 (Potential) Shadows and Behavioural Patterns
-Beyond visible goals and roles, participants may bring patterns of behaviour or underlying dynamics that influence interactions Identify fears, concerns, assumptions and prejudices of individuals and/or whole teams that could impact participation.
+#### 5.1.3 Behavioural Patterns
+A Behavioural Pattern for a participant is a consistent (at least 3x observed), observable action or dynamic brought by a participants that (might) influence the interaction or the modeling process.
+
+Following the principles of behaviorism, we focus on observable actions: what an organism does, or what another organism observes it doing. We want to identify these repeatable actions that are constantly influencing the collaboration.
 
 **Why it matters:**  
-Hidden agendas, habitual resistance, or recurring interpersonal dynamics can affect the session’s flow and outcomes. Mapping these patterns in advance allows the facilitator to structure the workshop to surface tension safely and productively rather than letting it derail collaboration.
+Since behavior is observable, facilitators can proactively forecast, manage, and mediate these patterns. Identifying and documenting observable dynamics—that can be categorised as habitual resistance, subconscious agendas, or recurring interpersonal friction—allows the facilitator to prepare by designing specific interventions. Structuring the workshop to safely manage or surface this observed tension and redirecting energy productively prevents the behavior from derailing collaboration and outcome of a session.
 
 **Example:**  
-- Dominant voices or habitual interrupters
-- Silent observers who influence group decisions indirectly
+- Consistent Agreement/Disagreement Pairs: The observable action is Person A always supporting/opposing Person B.
+- Silent Observers: The observable action is consistent non-verbal cues or hesitation before inputs.
+- Talking over each other: Someone consistently does not let someone finish their sentances.
 
 #### 5.1.4 Your thoughts / assumptions / personal risks & biases
-Facilitators themselves bring assumptions, experiences, and potential biases to the workshop.
+This step requires the facilitator to separate objective observation from subjective interpretation. When observing a participant's behavior, we often instinctively jump up the Ladder of Inference—adding meaning, making assumptions about their motive, and forming conclusions.
+
+Your task is to explicitly capture any assumptions, emotional responses, or biases (e.g., preference for one team, shared history with a participant, cognitive shortcuts like confirmation bias) that you bring into the session, based on your preparation and initial observations.
 
 **Why it matters:**
-Being aware of your own perspective helps prevent it from unintentionally shaping interpretations, decisions, or interventions. Explicit reflection supports impartial facilitation, allows you to anticipate participant behaviour more accurately, and informs the design of interventions that respect diverse viewpoints.
+Facilitator bias is a significant personal risk to the session's success. When your assumptions are not checked, they can lead to:
+
+- Misjudged Interventions: You challenge a "resistant" person who was simply confused.
+- Confirmation Bias: You only hear evidence that supports your existing belief about a person or team.
+- Compromised Impartiality: Participants sense your favoritism or impatience, eroding trust and psychological safety.
+
+Explicit self-reflection allows you to create neutral interventions that address the observed behavior rather than the assumed motive, ensuring your actions are impartial and productive.
 
 **Examples:**
-- Preconceptions about participants’ motivations or expertise
-- Personal triggers that could influence facilitation style
-- Biases that may affect interpretation of group dynamics
 
-### 5.2 Communication Strategy
+|
+
+| Observation (Objective Fact) | Assumption (Your Subjective Interpretation/Emotion) | Facilitator Risk (Bias-Driven Action) |
+|--|--|--|
+| Participant A sighed and crossed their arms twice during the introduction. | They are resistant, passive-aggressive, and don't want to be here. | Risk: You ignore A's later, valid critical inputs because you've pre-labeled them as disruptive. |
+| Participant B (from Team X) enthusiastically agrees with every point made by Participant C (from Team Y). | Team X is being overly friendly and trying to please Team Y, they must have a hidden political agenda. | Risk: You challenge B unnecessarily, forcing them to defend their agreement and damaging cross-team rapport. |
+| Participant D, who holds a junior role, hasn't spoken in 45 minutes and is quiet. | They have nothing valuable to add, or they are just too shy and lack confidence. | Risk: You miss crucial, detailed operational information that only D possesses, because you failed to directly invite their perspective. |
+
+
+### 5.2 The Group
+
+#### 5.2.1 Behavioural Patterns
+A Behavioural Pattern for the group is a consistent (at least 3x observed), observable action or dynamic brought by at least 3 different participants that (might) influence the interaction or the modeling process.
+
+Following the principles of behaviorism, we focus on observable actions: what an organism does, or what another organism observes it doing. We want to identify these repeatable actions within the group, because if one participant is showing a behaviour we do not want to address that in the group, only when the patterns is part of the group do we want to address is so we can try to not make it derail th collaboration and outcome of a session.
+
+**Why it matters:**  
+Since behavior is observable, facilitators can proactively forecast, manage, and mediate these patterns. Identifying and documenting observable dynamics—that can be categorised as habitual resistance, subconscious agendas, or recurring interpersonal friction—allows the facilitator to prepare by designing specific interventions. Structuring the workshop to safely surface this observed tension and redirecting energy productively prevents the behavior from derailing collaboration and outcome of a session.
+
+**Example:**  
+- Collective Inertia/Aversion: The observable action is the quick rejection or excessive challenge of new, complex, or change-inducing ideas by three or more individuals.
+- Shared Deference/Gatekeeping: The observable action is three or more participants looking to, waiting for, or agreeing with a specific high-status individual before offering their own opinions.
+- Topic Avoidance: The observable action is three or more participants jointly and quickly steering the conversation away from a difficult, sensitive, or high-conflict topic when it is raised.
+
+#### 5.2.2 Your thoughts / assumptions / personal risks & biases
+See 5.2.1
+
+### 5.3 Polarities
+
+### 5.4 Communication Strategy
 A comprehensive communication strategy is crucial for workshop success. It involves planning how you, as the facilitator, will engage with participants and stakeholders at every stage—before, during, and after the workshop. Determine when, who, and what you will communicate. Establish timelines for updates and clarify the roles of participants and stakeholders. Decide on the most effective methods for communication, such as email for detailed information, Slack for real-time interactions, and in-person meetings for more nuanced discussions.
 
 **Why it matters:**  
@@ -452,20 +489,11 @@ Effective communication keeps everyone aligned, manages expectations, and ensure
 - Slack channel for real-time Q&A
 - Post-workshop summary circulated to all participants and sponsors
 
-### 5.3 The Group
-
-#### 5.3.1 Behavioural Patterns observed in the group
-They might give you more insights on conflicts, power dynamics, ...
-
-#### 5.3.2 Your thoughts / assumptions / personal risks & biases
-You see things happening, what thoughts go through your mind,
-which emotions are triggered
-
 ### 5.4 Symbols of Power / Ranking
 
-### 5.5 Personal Risks / Conflicts (Introspection)
 
-### 5.6 Polarities
+
+
 
 ### 5.7 Optional Fields
 
