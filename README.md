@@ -489,13 +489,13 @@ Effective communication keeps everyone aligned, manages expectations, and ensure
 - Slack channel for real-time Q&A
 - Post-workshop summary circulated to all participants and sponsors
 
-### 5.4 Symbols of Power / Ranking
+### 5.5 Symbols of Power / Ranking
 
 
 
 
 
-### 5.7 Optional Fields
+### 5.6 Optional Fields
 
 The following sections contain an (incomplete) list of possible additions and deep dives that might bring useful insights depending on the situation. Be aware to not over complicate the canvas (premature optimasation) but only add the fields that acutally provide value to your workshop.
 
