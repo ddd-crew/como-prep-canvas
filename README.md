@@ -1,11 +1,11 @@
-# Collaborative Modeling Workshop Preparation Canvases
-The “Collaborative Modeling Workshop Preparation Canvases” are designed to support facilitators when preparing for collaborative modelling (CoMo) workshops. The goal is to improve the overall quality and outcomes of CoMo workshops and to help newcomers to get started.
+# Collaborative Modelling Workshop Preparation Canvases
+The “Collaborative Modelling Workshop Preparation Canvases” are designed to support facilitators when preparing for collaborative modelling (CoMo) workshops. The goal is to improve the overall quality and outcomes of CoMo workshops and to help newcomers to get started.
 
 The canvases are structured into two main areas:
 * Drafting the workshop (Scoping, Planning & Design)
 * Personal preparation (People, Methods)
 
-![Collaborative Modeling Workshop Preparation Canvases](resources/como-prep-canvas-v2.jpg)
+![Collaborative Modelling Workshop Preparation Canvases](resources/como-prep-canvas-v2.jpg)
 
 > *NOTE* This is a work in progress. Currently, we've provided the canvas as an image that you can copy and paste into your preferred tool.
 
@@ -51,7 +51,7 @@ These canvases are designed to guide you in drafting a workshop, whether it's wi
 These Canvases serve for your own preparation and should stay **with the facilitators (and their close collaborators) only** as they contain hidden agendas, assumptions, personal triggers, alternatives on methods, thoughts behind the storyline, and more. They target the rather invisible aspects that are crucial for a successful workshop preparation are split into **People** and **Methods**. The people canvas is designed to create awareness on motivations and hidden agendas of your stakeholders and how knowledge and power are distributed. The methods canvas contains different sections that help in designing a consistent storyline throught the workshop and to deep dive on the methods used. 
 
 #### 2.2.1 People ([5. Personal Preparation - People](#5-personal-preparation---people-wip))
-![Peope Deepdive](resources/personal-preparation-people.jpg)
+![People Deep Dive](resources/personal-preparation-people.jpg)
 #### 2.2.2 Methods([6. Personal Preparation - Methods](#6-personal-preparation---methods-wip))
 ![Methods Deepdive](resources/personal-preparation-methods.jpg)
 
@@ -59,16 +59,16 @@ These Canvases serve for your own preparation and should stay **with the facilit
 
 ## 3\. Drafting the Workshop - Scoping
 
-Usually the first step when preparing a (collaborative modelling) workshop is discussing its motivation and backgroud (like *what led to the workshop*) as well as the definition of success (like *what should have changed afterwards*). Furthermore, it helps to establish a suitable (working) title early on, discuss initial ideas for the workshop format, and identify the key parties involved (initiator, beneficiaries & potential participants).
+Usually the first step when preparing a (collaborative modelling) workshop is discussing its motivation and background (like *what led to the workshop*) as well as the definition of success (like *what should have changed afterwards*). Furthermore, it helps to establish a suitable (working) title early on, discuss initial ideas for the workshop format, and identify the key parties involved (initiator, beneficiaries & potential participants).
 
 ### 3.1 Title of Workshop
-A clear, concise name for the upcoming collaborative modeling session. 
+A clear, concise name for the upcoming collaborative modelling session. 
     
 **Why it matters:**  
 This title sets expectations and gives the workshop a clear identity from the outset and should be aligned with the goal and scope of the workshop. If you struggle in finding a concise title for the workshop, the goal and scope might not be clear enough yet. Same applies if the title is not understood by stakeholders without further explanation. 
 
 **Examples:**
-- “EventStorming Workshop: Improving the Order Fulfillment Process”
+- “EventStorming Workshop: Improving the Order Fulfilment Process”
 - "Re-Discovery Workshop for the Booking Platform"
 - "Domain modelling to realign teams"
 - "Aligning architecture with a Bytesized Architecture session"
@@ -77,9 +77,9 @@ This title sets expectations and gives the workshop a clear identity from the ou
 This section delves into the "why" behind the workshop. Consider answering the following questions to clarify its purpose:
 - What prompted this workshop? What specific situation or challenge led to its initiation?
 - What's the current situation or status quo? Describe the existing conditions, systems, or processes.
-- How are we/they organized? Outline the team structure, departmental setup, or relevant organizational aspects.
+- How are we/they organised? Outline the team structure, departmental setup, or relevant organisational aspects.
 - What does the current architecture look like? Provide an overview of the existing technical or operational architecture.
-- What's the current level of DDD (Domain-Driven Design) and CoMo knowledge within the team/organization?
+- What's the current level of DDD (Domain-Driven Design) and CoMo knowledge within the team/organisation?
 - What specific problems are we trying to solve or opportunities are we trying to capture?
 
 **Why it matters:**  
@@ -102,8 +102,8 @@ A definition of success for a workshop is crucial because it clarifies the objec
 It aligns participants by ensuring everyone understands the purpose and expected outcomes, providing a baseline so all enter the workshop on the same page. This should be shared beforehand and at the start of the workshop. Being aware of participants' potential fears and motivations is also beneficial (see more in section [5.2 Participants](#52-participants)).
 
 **Examples:**
-- A shared understanding of the “Order Fulfillment” domain and key events and a clear way forward.  
-- A prioritized list of bottlenecks and possible interventions.  
+- A shared understanding of the “Order Fulfilment” domain and key events and a clear way forward.  
+- A prioritised list of bottlenecks and possible interventions.  
 - Agreement on next steps to pilot one key improvement.
 - A shared understanding between the different departments and everyone pulling in the same direction.
 
@@ -114,7 +114,7 @@ At this stage, there's no need for a concrete agenda. However, it's helpful to s
 Discussing initial ideas on the workshop format early on is important because it shapes the planning process, ensuring the workshop is structured effectively from the start. It aligns expectations among stakeholders, providing a shared understanding of how the workshop will proceed. It helps to identify the necessary resources and to anticipate and address potential challenges.
 
 **Examples:**
-- 1-2 hours of Design Level EventStormiung
+- 1-2 hours of Design Level EventStorming
 - 1/2 day with Domain Storytelling and Example Mapping
 - 5 days with Wardley Mapping, Big Picture EventStorming, Impact Mapping and Bytesized Architecture sessions.
 
@@ -132,19 +132,19 @@ Understanding who brought the workshop to life helps clarify motivations and pos
 Everyone who might be needed for the workshop (e.g. Tech Leads, Developers, Tester, Sales Department, Product Owner, User, Customer, Operations, ...).
     
 **Why it matters:**  
-Thinking through who should be in the room for a collaborative modeling session is absolutely essential. Every person, from Developers to Testers, and from Product Owners, Users to Domain Experts, and especially people who can decide brings a unique and vital perspective. Including these diverse viewpoints isn't just about ticking boxes; it's about building a holistic and accurate understanding of the problem or system you're modeling. When everyone contributes, you not only uncover hidden insights and potential pitfalls early but also foster a shared understanding and stronger buy-in, ultimately leading to more robust solutions and successful outcomes.
+Thinking through who should be in the room for a collaborative modelling session is absolutely essential. Every person, from Developers to Testers, and from Product Owners, Users to Domain Experts, and especially people who can decide brings a unique and vital perspective. Including these diverse viewpoints isn't just about ticking boxes; it's about building a holistic and accurate understanding of the problem or system you're modelling. When everyone contributes, you not only uncover hidden insights and potential pitfalls early but also foster a shared understanding and stronger buy-in, ultimately leading to more robust solutions and successful outcomes.
 
 **Examples:**
 - Software developers
 - Testers
 - Product Managers
 - User researchers
-- Business Analists
+- Business Analysts
 - Agile Coaches
 - Managers
 - Users
 - Ops Engineers
-- .. and all the roles involved and invented in your company in building the software
+- ... and all the roles involved and invented in your company in building the software
 
 ## 4\. Drafting the Workshop - Workshop Planning & Design
 
@@ -156,7 +156,7 @@ This canvas contains "default" as well as "optional" fields. The default fields 
 Understanding what falls within and outside the scope is essential. This includes considering products, domains, value streams, teams, services, and systems. Reflect on whether decisions need to be made and consider incorporating decision-making styles (see optional field). Additionally, it may be the right moment to discuss the flight level, such as whether you want to focus on the domain, business processes, application flow or actual code (consider adding the optional field for deeper exploration). Being as specific as possible helps minimize misunderstandings and unexpected surprises. 
 
 **Why it matters:**  
-Addressing the scope of the workshop beforehand helps to better understand the problem and determine whom you need for your workshop to be successful. It sets expections and enables the participants to prepare respectively. Being aware of what is in and out of scope helps to keep the workshop focused and that discussions remain productive. Sometimes it is easier to pinpoint what is out of scope than in scope. By asking for both, you can more easily sense and react to any resistnace or conflict in the group and adapt to your stakeholder group and open up new perspectives.
+Addressing the scope of the workshop beforehand helps to better understand the problem and determine whom you need for your workshop to be successful. It sets expectations and enables the participants to prepare respectively. Being aware of what is in and out of scope helps to keep the workshop focused and ensures that discussions remain productive. Sometimes it is easier to pinpoint what is out of scope than in scope. By asking for both, you can more easily sense and react to any resistance or conflict in the group and adapt to your stakeholder group, opening up new perspectives.
 
 It also helps find the right methods for the workshop and manage expectations (e.g., what is possible vs. what would be wished for in an ideal world). It helps facilitators prioritize if time is limited. If time remains, you can address these. Sometimes it's easier for stakeholders to deprioritize their expectations rather than skip them completely. They can also serve as potential follow-ups after the workshop. 
 
@@ -166,7 +166,7 @@ It also helps find the right methods for the workshop and manage expectations (e
 - Payment processing is out of scope as it is handled separately by Finance
 - Customer support ticketing are out of scope as it is handled by Customer Service after delivery
 - Provide a decisions-making basis for the leadership team
-- Decide on a migraton strategy
+- Decide on a migration strategy
 - Identify the Re-Discovery Scope for the legacy migration
 - We're not taking decisions but just discovering
 
@@ -187,7 +187,7 @@ It's important to take a moment for a more cautious perspective to prepare for p
 Outline the workshop structure, including methods used, expected timings, breaks, and start/end times. Provide a high-level schedule or timeline, and consider incorporating subgoals. Also decide how much information to share in advance, as it can influence engagement and the overall success of the workshop.
 
 **Why it matters:**  
-Providing participants with a clear understanding of what to expect enables them to prepare effectively and manage surrounding commitments, such as conflicting meetings, workloads, and personal obligations. While detailing every method isn't necessary, sharing the overall storyline and explaining the rationale behind chosen methods fosters trust and confidence in you as the facilitator, showcasing your well-thought-out plan. Additionally, this helps identify other organizational needs, such as food, coffee, room setup and meeting points.
+Providing participants with a clear understanding of what to expect enables them to prepare effectively and manage surrounding commitments, such as conflicting meetings, workloads, and personal obligations. While detailing every method isn't necessary, sharing the overall storyline and explaining the rationale behind chosen methods fosters trust and confidence in you as the facilitator, showcasing your well-thought-out plan. Additionally, this helps identify other organisational needs, such as food, coffee, room setup and meeting points.
 
 **Example:**
 
@@ -216,7 +216,7 @@ Knowing whom to invite is essential because it ensures that the workshop is prod
 Identify which collaborative modelling methods you plan to use. Consider how these methods will impact the agenda and the room setup. Determine if there are any resources or materials that should be shared with participants in advance to enhance preparation and engagement.
 
 **Why it matters:**  
-The choice of modeling methods directly influences the workshop's structure and effectiveness. Different methods may require specific room layouts, tools, or materials, impacting logistics and planning. Sharing resources beforehand ensures participants are well-prepared, facilitating a smoother and more productive session. Additionally, the right methods foster engagement and collaboration, leading to more meaningful outcomes.
+The choice of modelling methods directly influences the workshop's structure and effectiveness. Different methods may require specific room layouts, tools, or materials, impacting logistics and planning. Sharing resources beforehand ensures participants are well-prepared, facilitating a smoother and more productive session. Additionally, the right methods foster engagement and collaboration, leading to more meaningful outcomes.
 
 **Example:**
 - EventStorming – Room with a long wall and many sticky notes
@@ -224,7 +224,7 @@ The choice of modeling methods directly influences the workshop's structure and 
 - User Story Mapping – Sticky notes and printed screen designs
 - Impact Mapping – Flip charts/whiteboard, sticky notes, and markers
 - Context Mapping in small groups – Round tables, flip charts, and sticky notes
-- Example Mapping in group of 4-5 - Tables with different colors index cards, sharpies.
+- Example Mapping in group of 4-5 - Tables with different colours index cards, sharpies.
 
 ### 4.6 Room Setup / Tools Needed
 Identify the tools and equipment needed for the workshop and determine who will provide them. Consider if the room needs to be prepared in advance (if onsite) and when that's possible. Think about the room setup, including seating, walls, flipcharts, and stickies, to ensure the layout accommodates collaborative activities and all necessary materials are available. For a virtual setting, consider what tools to use and what preparations are needed, such as setting up break-out rooms or organizer rights.
@@ -413,13 +413,13 @@ Explicitly understanding individual goals helps anticipate alignment or conflict
 - Less work for the team
 - Option to work on new (cool) features
 - Supporting others
-- Fear to loos their job
+- Fear of losing their job
 - Desire to validate a technical decision or assumption
 - Protecting a process or deliverable
 - Learning, visibility, or influence within the organisation
 
 #### 5.1.3 Behavioural Patterns
-A Behavioural Pattern for a participant is a consistent (at least 3x observed), observable action or dynamic brought by a participants that (might) influence the interaction or the modeling process.
+A Behavioural Pattern for a participant is a consistent (at least 3x observed), observable action or dynamic brought by a participants that (might) influence the interaction or the modelling process.
 
 Following the principles of behaviorism, we focus on observable actions: what an organism does, or what another organism observes it doing. We want to identify these repeatable actions that are constantly influencing the collaboration.
 
@@ -459,7 +459,7 @@ Explicit self-reflection allows you to create neutral interventions that address
 ### 5.2 The Group
 
 #### 5.2.1 Behavioural Patterns
-A Behavioural Pattern for the group is a consistent (at least 3x observed), observable action or dynamic brought by at least 3 different participants that (might) influence the interaction or the modeling process.
+A Behavioural Pattern for the group is a consistent (at least 3x observed), observable action or dynamic brought by at least 3 different participants that (might) influence the interaction or the modelling process.
 
 Following the principles of behaviorism, we focus on observable actions: what an organism does, or what another organism observes it doing. We want to identify these repeatable actions within the group, because if one participant is showing a behaviour we do not want to address that in the group, only when the patterns is part of the group do we want to address is so we can try to not make it derail th collaboration and outcome of a session.
 
@@ -505,7 +505,7 @@ The following sections contain an (incomplete) list of possible additions and de
 **Beneficiaries** refers to the group or individuals who will directly benefit from the workshop's successful outcome. They're the ones who stand to gain from the changes or improvements the workshop aims to achieve.
 
 **Why it matters:**  
-Being aware of these roles is crucial for aligning the workshop’s objectives with the broader organizational goals. Understanding who the principal, initiator, and beneficiaries are helps ensure that the workshop addresses the right needs and delivers value to the intended stakeholders.
+Being aware of these roles is crucial for aligning the workshop’s objectives with the broader organisational goals. Understanding who the principal, initiator, and beneficiaries are helps ensure that the workshop addresses the right needs and delivers value to the intended stakeholders.
 
 **Example:**  
 - The principal may be a senior executive who provides funding, the initiator could be a project manager driving the workshop, and the beneficiaries might be the teams who will implement the solutions discussed.
@@ -516,7 +516,7 @@ Being aware of these roles is crucial for aligning the workshop’s objectives w
 
 - **What to include:**  
     
-  - Why you chose EventStorming, Domain Storytelling, or other modeling methods.  
+  - Why you chose EventStorming, Domain Storytelling, or other modelling methods.  
   - Specific strengths of each method that help achieve the goals.
 
 
@@ -597,7 +597,6 @@ The canvases can also be used to identify potential triggers and patterns that m
 - **Vague or Contradictory "Context of Workshop":** If stakeholders provide conflicting accounts of the current situation, it may indicate a lack of transparency or underlying issues.
 
 
-
 ### 7.3 Tips & Best Practices
 
 - **Keep It Simple:**  
@@ -613,9 +612,7 @@ The canvases can also be used to identify potential triggers and patterns that m
   Involving a co-facilitator or a small preparation team can help fill the pink sections objectively and thoroughly.  
     
 - **Adapt to Your Context:**  
-  Each workshop is different; customize or rename sections if it suits your organization’s language and culture better.
-
-
+  Each workshop is different; customise or rename sections if it suits your organisation’s language and culture better.
 
 # Conclusion
 
