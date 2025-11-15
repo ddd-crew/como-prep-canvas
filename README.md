@@ -475,25 +475,46 @@ Since behavior is observable, facilitators can proactively forecast, manage, and
 See 5.2.1
 
 ### 5.3 Polarities
+Polarities are interdependent pairs of opposing values or needs that are both necessary for success. Unlike problems that can be solved, polarities must be managed—choosing one side over the other creates new problems. Common workshop polarities include speed vs. quality, innovation vs. stability, or central control vs. autonomy.
 
-### 5.4 Communication Strategy
+**Why it matters:**  
+Unrecognized polarities appear as recurring conflicts where one side temporarily "wins" only for the problem to resurface. Explicitly naming polarities allows you to validate both perspectives, design activities that explore both poles, and help the group navigate the tension productively rather than forcing an either/or choice.
+
+**Examples:**  
+- **Standardisation vs. Flexibility**: Operations needs consistency; innovation needs experimentation. Both necessary.
+- **Speed vs. Quality**: Product pushes for rapid delivery; engineering emphasises thorough testing.
+- **Central Coordination vs. Team Autonomy**: Leadership wants alignment; teams want independence.
+- **Big Picture vs. Details**: Strategists focus on vision; implementers need concrete specifics.
+- **Divergence vs. Convergence**: Some want to explore options; others want to decide and move forward.
+
+### 5.4 Symbols of Power / Ranking
+Symbols of power are markers—visible or invisible—that signal authority, status, and influence within the group. These include formal rank (titles, reporting lines), informal capital (tenure, expertise, relationships), and contextual power (who controls resources, information, or decisions). Power dynamics shape who speaks, who is heard, and whose ideas are validated.
+
+**Why it matters:**  
+Unaddressed power imbalances silently shape outcomes. High-status participants may dominate while lower-status participants self-censor. Critical information gets lost when people don't feel safe to share. By recognizing power dynamics, you can design activities that level the playing field (silent brainstorming, round-robin sharing, anonymous input) and adjust facilitation to protect psychological safety.
+
+**Examples:**  
+- **Formal Hierarchy**: VP in the room with junior developers—developers may hesitate to challenge decisions.
+- **Tenure**: Long-serving employees carry informal authority; newer employees defer even when fresh perspectives are valuable.
+- **Technical Expertise**: The recognised expert's opinions are weighted more heavily, potentially silencing alternatives.
+- **Budget Control**: Whoever controls funding holds power; others may self-censor proposals they fear won't be resourced.
+- **External vs. Internal**: External consultants may have more credibility than internal staff saying the same thing.
+- **Language & Communication**: Native speakers or extroverts dominate; others take longer to formulate responses. Silent observers in the back can be perceived as holding ultimate decision power.
+- **Gender or Social Background**: Traditional biases still operate—voices fitting stereotypical "leadership" patterns are heard first.
+- **Clothing Style**: A suit vs. a hoodie signals different things in different contexts (techie vs. sales).
+
+### 5.5 Communication Strategy
 A comprehensive communication strategy is crucial for workshop success. It involves planning how you, as the facilitator, will engage with participants and stakeholders at every stage—before, during, and after the workshop. Determine when, who, and what you will communicate. Establish timelines for updates and clarify the roles of participants and stakeholders. Decide on the most effective methods for communication, such as email for detailed information, Slack for real-time interactions, and in-person meetings for more nuanced discussions.
 
 **Why it matters:**  
 Effective communication keeps everyone aligned, manages expectations, and ensures no one feels left out. It's essential to engage participants and motivate them for the workshop. In some cases, higher management may require prior check-ins to feel comfortable and well informed.
 
 **Example:**
-- Setting the stage sessions with all participants before the workshop
+- Setting-the-stage sessions with all participants before the workshop
 - Short Kick-Off Meeting with all stakeholders before the workshop series
 - Pre-workshop questionnaire via email
-- Slack channel for real-time Q&A
+- Slack channel for asynchronous communication and Q&A
 - Post-workshop summary circulated to all participants and sponsors
-
-### 5.5 Symbols of Power / Ranking
-
-
-
-
 
 ### 5.6 Optional Fields
 
