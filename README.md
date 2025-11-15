@@ -1,5 +1,5 @@
 # Collaborative Modelling Workshop Preparation Canvases
-The “Collaborative Modelling Workshop Preparation Canvases” are designed to support facilitators when preparing for collaborative modelling (CoMo) workshops. The goal is to improve the overall quality and outcomes of CoMo workshops and to help newcomers to get started.
+The "Collaborative Modelling Workshop Preparation Canvases" are designed to support facilitators when preparing for collaborative modelling (CoMo) workshops. The goal is to improve the overall quality and outcomes of CoMo workshops and to help newcomers to get started.
 
 The canvases are structured into two main areas:
 * Drafting the workshop (Scoping, Planning & Design)
@@ -68,7 +68,7 @@ A clear, concise name for the upcoming collaborative modelling session.
 This title sets expectations and gives the workshop a clear identity from the outset and should be aligned with the goal and scope of the workshop. If you struggle in finding a concise title for the workshop, the goal and scope might not be clear enough yet. Same applies if the title is not understood by stakeholders without further explanation. 
 
 **Examples:**
-- “EventStorming Workshop: Improving the Order Fulfilment Process”
+- "EventStorming Workshop: Improving the Order Fulfilment Process"
 - "Re-Discovery Workshop for the Booking Platform"
 - "Domain modelling to realign teams"
 - "Aligning architecture with a Bytesized Architecture session"
@@ -102,7 +102,7 @@ A definition of success for a workshop is crucial because it clarifies the objec
 It aligns participants by ensuring everyone understands the purpose and expected outcomes, providing a baseline so all enter the workshop on the same page. This should be shared beforehand and at the start of the workshop. Being aware of participants' potential fears and motivations is also beneficial (see more in section [5.2 Participants](#52-participants)).
 
 **Examples:**
-- A shared understanding of the “Order Fulfilment” domain and key events and a clear way forward.  
+- A shared understanding of the "Order Fulfilment" domain and key events and a clear way forward.  
 - A prioritised list of bottlenecks and possible interventions.  
 - Agreement on next steps to pilot one key improvement.
 - A shared understanding between the different departments and everyone pulling in the same direction.
@@ -512,59 +512,241 @@ Being aware of these roles is crucial for aligning the workshop’s objectives w
 
 ## 6\. Personal Preparation - Methods [WIP]
 
-### 6.1 Advantages of Used Methods for Context, Scope, and Goals
+### 6.1 Facilitator Agenda
+Your private, detailed schedule for the workshop, including timings for each activity, planned breaks, and meals. It helps you keep track of logistics and stay on schedule, even if the public agenda is more high-level. Include all facilitator-only activities and transitions.
 
-- **What to include:**  
-    
-  - Why you chose EventStorming, Domain Storytelling, or other modelling methods.  
-  - Specific strengths of each method that help achieve the goals.
+**Why it matters:**
+Planning your own time management helps you anticipate transitions, energy dips, logistical needs, and handovers (e.g. to co-facilitators). It prevents running out of time for key activities, highlights where to compress or stretch, and ensures you have a backup plan for overruns or delays (e.g. "drop optional exercise X if we lose >15 min before lunch").
 
+**Examples:**
+- Start/end times for each session
+- Timing for breaks, lunch, and transitions
+- Buffer blocks (e.g. 10 min after complex activity for regrouping)
+- Drop/Swap rules (what gets removed first if behind time)
+- Notes on setup/cleanup or facilitator-only activities
+- Handovers ("Kenny leads Domain Storytelling debrief")
 
-- **Why it matters:**  
-  Helps you be clear on why these methods fit well, and how to leverage their strong points. The clearer you are on your storyline the easier it is to follow for the participants. 
+### 6.2 Storyline throughout the workshop
+The logical flow of the workshop, showing how each activity connects to the next and how subgoals build toward the main objective. It helps you maintain coherence and momentum and ensures the workshop has a clear narrative ("from divergence to convergence").
 
-**Example:**
+**Why it matters:**
+Clarifying the storyline ensures each segment has a purpose and participants understand how their work fits into the bigger picture. It prevents a collection of disconnected activities and supports re-orientation after breaks or energy dips. This is especially valuable for complex or multi-day workshops and when stakeholders occasionally join mid-stream.
 
-- **EventStorming**: Great for quickly visualizing an end-to-end process, identifying bottlenecks, and engaging non-technical people.  
-- **Domain Storytelling**: Excellent for clarifying roles and interactions in complex processes.
+**Examples:**
+- EventStorming (Get the big picture and the main activities as subdomains), User Story Map (Use the found subdomians as entry point for your user story map), Magic Estimation (Use the User Story Candidates to get a high level estimation for the project / feature)
+- Wardley Map (Start with user needs, the capabilities needed to adress them and evolution stages), Domain Decomposition (Decompose capabilities into domains, mind high cohesion and loose coupling), Team Topologies (Map team topologies on the domains and mind the team interaction modes for fast flow)
 
+### 6.3 Check-in & Check-out
+Structured moments at the start and end of the workshop (and optionally between major phases) to set the tone, surface expectations, and close the session. Check-ins help participants arrive mentally and emotionally; check-outs provide closure, reflection, and commitment to follow-ups.
 
+**Why it matters:**
+Check-ins foster psychological safety, build rapport, and ensure everyone is present and engaged. They reduce silent resistance and help you sense energy early. Check-outs consolidate learning, anchor decisions, and prevent a fuzzy end. Mid-phase micro check-ins recalibrate focus after intense divergence.
 
-### 6.2 Potential Blindspots, Risks, and Disadvantages of Used Methods
+**Examples:**
+- Opening prompt: What’s one thing you need from today to call it worthwhile?
+- Mood line (participants place dot on an energy axis)
+- Mid-day pulse: 3-word check-in on stickies
+- Closing round: One insight + one next step you’ll support
+- Silent written reflection: Share one highlight
+- Check-out heatmap (confidence in chosen improvement 1–5)
 
-- **What to include:**  
-    
-  - Known issues or limitations in your chosen methods.  
-  - Possible pitfalls (e.g., groupthink, time constraints) to watch out for.
+### 6.4 Sense-making Exercises
+Activities designed to help participants interpret information, reflect on insights, and connect dots during the workshop. Used after major activities or when the group needs to synthesize findings and align on meaning before moving forward.
 
+**Why it matters:**
+Sense-making prevents misunderstandings, supports shared understanding, and enables the group to move forward with clarity. It converts raw output into shared insight, surfaces divergence early, and reduces premature solution picking. Crucial in domains with high complexity or ambiguity.
 
-- **Why it matters:**  
-  Allows facilitators to anticipate problems and prepare mitigations. Being aware of there makes it easier to try out different methods and to adapt the workshop on the spot as not everything can be anticipated. 
+**Examples:**
+- Spectrum line-up: Standard Product vs Custom Build (participants physically position themselves)
+- Corner voting on current architecture: Big Ball of Mud / Microservices / Monolith / Distributed Monolith
+- Red/Green dots: risk vs opportunity perception on emerging model areas
 
-**Example:**
+### 6.5 Optional Fields
+This section offers an incomplete list of additional fields and deep dives you can use to tailor your workshop preparation. These are not mandatory—choose only those that add real value for your context. Use them to address specific challenges, enrich your facilitation, or document important details that might otherwise be overlooked.
 
-- EventStorming can become chaotic if too many participants talk at once.  
+#### Interaction Modes / Facilitation Techniques
+List and describe the facilitation techniques and interaction modes you plan to use, such as silent brainstorming, round-robin sharing, breakout groups, or energizers. Explain how each technique will be applied in your workshop.
+
+**Why/When it matters:**
+Proactively planning interaction modes helps maintain engagement, adapt to group energy, and ensure all voices are heard. This is especially important for longer workshops or when you anticipate dips in energy or participation.
+
+**Examples:**
+- Use "1-2-4-All" for idea generation to ensure all voices are heard.
+- Employ timeboxing and visual timers to keep activities on track.
+- Plan breakout groups for deep dives on specific topics.
+
+#### Advantages of Used Methods for Context, Scope, and Goals
+Summarize why you selected each collaborative modelling method and highlight the strengths of each in relation to your workshop’s context, scope, and goals.
+
+**Why/When it matters:**
+Clarifying your rationale helps you leverage each method’s strong points and communicate your choices to participants or co-facilitators. This is especially useful when you need buy-in or want to adapt your approach for different audiences.
+
+**Examples:**
+- EventStorming: Great for quickly visualizing an end-to-end process, identifying bottlenecks, and engaging non-technical people.
+- Domain Storytelling: Excellent for clarifying roles and interactions in complex processes.
+
+#### Potential Blindspots, Risks, and Disadvantages of Used Methods
+Identify and reflect on the limitations, risks, or common pitfalls of your chosen methods. Include notes on when these issues typically arise and how they might impact your workshop.
+
+**Why/When it matters:**
+Anticipating risks allows you to prepare mitigations and adapt on the spot if needed. This is especially important for new methods, large groups, or unfamiliar domains.
+
+**Examples:**
+- EventStorming can become chaotic if too many participants talk at once.
 - Domain Storytelling can be time-intensive if the domain is very large.
 
+#### Strategy / Approach for Addressing Blindspots and Disadvantages
+Describe your concrete plan for handling the risks and limitations you’ve identified. Include specific mitigation steps, alternative activities, or facilitation moves you’ll use if challenges arise.
 
+**Why/When it matters:**
+Having a clear strategy equips you with a backup plan so you can confidently guide discussions and adapt as needed. This is especially useful for complex or high-stakes workshops.
 
-### 6.3 Strategy / Approach for Addressing Blindspots and Disadvantages
+**Examples:**
+- Pre-divide the domain into manageable slices to avoid analysis paralysis.
+- Assign a co-facilitator to manage group discussions and timeboxes.
 
-- **What to include:**  
-    
-  - Your plan to handle or minimize the limitations identified above.  
-  - Concrete steps or facilitation techniques to keep the workshop on track.
+#### Back Channels
+Note any informal communication channels you’ll use during the workshop, such as Slack, WhatsApp, or private messages. Explain their purpose and how they’ll be used for facilitator coordination or participant support.
 
+**Why/When it matters:**
+Back channels are useful for real-time coordination with co-facilitators, troubleshooting, or providing participants with a way to ask questions privately. They are especially valuable for hybrid or remote workshops.
 
-- **Why it matters:**  
-  Equips you with a “backup plan” so you can confidently guide discussions.
+**Examples:**
+- Slack channel for facilitator coordination.
+- WhatsApp group for urgent troubleshooting.
+- Private messages for participant questions.
+
+#### Metrics
+Define any metrics or indicators you’ll use to measure workshop success, participant engagement, or learning outcomes. Explain how and when you’ll collect data and what you’ll do with the results.
+
+**Why/When it matters:**
+Metrics help you assess effectiveness, report results, and improve future workshops. They are especially valuable for recurring sessions or when you need to demonstrate value to stakeholders.
+
+**Examples:**
+- Number of ideas generated per session.
+- Participant feedback scores from post-workshop survey.
+- Engagement rate during group activities.
+
+#### Design Storyboard (from [Liberating Structures](https://www.liberatingstructures.com/21-design-storyboards/))
+A Design Storyboard is a deliberately sequenced flow of Liberating Structures (and complementary methods) chosen to serve the specific purpose, participants, constraints, and desired trajectory of a workshop or meeting. It lets you prototype the arc of divergence and convergence, balance energy patterns, and ensure each activity harvests something needed for the next. Instead of an improvised list of methods, the storyboard is a visual/structured map that exposes gaps (e.g. too much idea generation, not enough sense-making) before you are in the room.
+
+**Why/When it matters:**
+Design storyboarding makes the workshop flow intentional by explicitly linking each activity’s output to the next, balancing divergence (opening options) with convergence (making meaning and decisions), and helping you anticipate energy dips so you can place movement or reflection at the right moments. It lets you spot gaps (for example, jumping to decisions without a synthesis step) before you are in the room and prepare the harvest (photos, boards, notes) so follow‑up is frictionless.
 
 **Example:**
+| Segment | Purpose | Structure (LS / Method) | Harvest / Output | Time | Backup Swap |
+|---------|---------|-------------------------|------------------|------|-------------|
+| Arrival & Framing | Psychological arrival & purpose alignment | Impromptu Networking (2 rounds) | Shared expectations wall | 15m | Pair share only |
+| Diverge (Explore) | Surface events & pain points | EventStorming (Big Picture) | Event timeline + hotspots | 60m | 1‑2‑4‑All list of events |
+| Sense‑Making | Cluster & interpret hotspots | What? So What? Now What? | Prioritised insight list | 25m | Silent affinity mapping |
+| Converge | Select improvement focus | 1‑2‑4‑All + Dot Voting | Top 3 improvement areas | 20m | Show of hands |
+| Decide / Commit | Define next steps & owners | 15% Solutions + Agreements | Action list with owners | 30m | Who/What/By When canvas |
+| Close | Reflection & commitment | Appreciation Circle | Momentum statements | 10m | One‑word checkout |
 
-- Pre-divide the domain into manageable slices to avoid “analysis paralysis.”  
-- Assign a co-facilitator to manage group discussions, keep to time boxes, and make sure all voices are heard.
+#### Alternative Methods Considered
+List any alternative methods or approaches you considered for the workshop, along with your reasoning for not selecting them. This demonstrates thoughtful planning and gives you backup options if you need to pivot.
 
+**Why/When it matters:**
+Considering alternatives shows critical thinking and provides backup options if your primary method isn’t working. It’s especially useful for new or experimental workshops.
 
+**Examples:**
+- Chose EventStorming over User Story Mapping because the group is unfamiliar with story mapping and the goal is process discovery.
+- Considered Context Mapping but decided against it due to time constraints.
+
+#### Method Adaptations / Customizations
+Describe any modifications or customizations you plan to make to standard facilitation methods. This could include shortened timeboxes, hybrid approaches, or adapted materials. Explain why these changes are necessary for your context.
+
+**Why/When it matters:**
+Adapting methods ensures they fit your group’s needs and constraints. Documenting changes helps you reflect and improve for future workshops. This is especially useful for mixed-experience groups or when piloting new techniques.
+
+**Examples:**
+- Use a simplified EventStorming legend for new participants.
+- Combine Domain Storytelling with a Q&A round to clarify unclear steps.
+
+#### Materials & Preparation Checklist
+Create a detailed checklist of all materials, tools, and resources required for your workshop. Assign responsibility for each item to ensure nothing is missed.
+
+**Why/When it matters:**
+A clear checklist prevents last-minute surprises and ensures you’re fully prepared for a smooth workshop. This is essential for workshops with complex setups or remote components.
+
+**Examples:**
+- Prepare colored sticky notes and markers for EventStorming.
+- Set up Miro board templates for remote Domain Storytelling.
+- Print handouts with method instructions for participants.
+
+#### Evaluation & Feedback Plan
+Outline your approach for collecting feedback and evaluating the workshop’s effectiveness. This could include surveys, retrospectives, or informal check-ins. Specify what you want to learn and how you’ll use the feedback.
+
+**Why/When it matters:**
+Collecting feedback helps you refine your facilitation and method choices, making each workshop more effective. This is especially important for new formats or when stakeholder buy-in is critical.
+
+**Examples:**
+- End with a 5-minute "What worked / What didn’t" round.
+- Send a short survey to participants about clarity and engagement with the methods.
+
+#### Facilitator Roles & Support
+List facilitator and co-facilitator roles, including specialization (e.g. visual facilitation, timekeeping, energy sensing, tech ops). Clarify responsibilities and escalation paths if interventions are needed.
+
+**Why/When it matters:**
+Clear role division reduces cognitive load, prevents dropped balls (e.g. timer forgotten), and enables parallel attention (one tracks dynamics while another drives instructions). Crucial for large, hybrid, or high-stakes workshops.
+
+**Examples:**
+- Lead facilitator: guides flow & narrative
+- Co-facilitator: manages chat/back channel + supports quiet voices
+- Visual scribe: captures emerging model artifacts live
+- Timekeeper: enforces timeboxes & signals 5-min warnings
+- Tech steward: breakout rooms, recording, board permissions
+
+#### Energy & Engagement Plan
+Proactive plan for maintaining participant energy, attention, and inclusion across the day(s). Includes pacing, movement, novelty, and recovery strategies.
+
+**Why/When it matters:**
+Energy naturally dips (post-lunch, late afternoon). Without planned resets, quality of thinking and psychological safety degrade. Intentional variation sustains cognitive freshness and prevents disengagement.
+
+**Examples:**
+- Movement after heavy divergence (stand & cluster)
+- Short energizer (e.g. 60-second "draw the domain mascot")
+- Quiet synth moments after heated debate
+- Switch modalities: wall, table sketch, verbal summary
+- Explicit hydration break every 90 minutes
+
+#### Inclusion & Accessibility Considerations
+Notes on ensuring equitable participation and accessibility: language support, visual contrast, pacing, neurodiversity accommodations, remote inclusion.
+
+**Why/When it matters:**
+Unaddressed accessibility barriers silently exclude perspectives and bias outcomes. Inclusive design broadens cognitive diversity and trust.
+
+**Examples:**
+- Provide high-contrast sticky colors and large markers
+- Share glossary pre-workshop for domain jargon
+- Offer async board access for reflective thinkers
+- Rotate who speaks first; use round-robin for high-status dominated topics
+- Live captioning for remote participants
+
+#### Intervention & Escalation Playbook
+Predefined lightweight tactics for handling disruptive patterns (domination, derailment, conflict spikes, cross-talk) and clear escalation steps if severity increases.
+
+**Why/When it matters:**
+Having thought-through interventions prevents reactive, ad-hoc responses that may amplify tension. Enables calm, consistent facilitation and preserves psychological safety.
+
+**Examples:**
+- Level 1 (Mild): Gentle nudge "Let’s hear from someone who hasn’t spoken".
+- Level 2 (Repeated): Structured turn-taking + timer.
+- Level 3 (Escalating conflict): Pause + reframe shared goal.
+- Parking lot for persistent off-scope threads.
+- Private side-channel with co-facilitator for early warning signals.
+
+#### Digital Capture & Archiving Plan
+How outputs will be preserved, cleaned up, structured, and shared post-workshop. Ownership and timelines.
+
+**Why/When it matters:**
+Poor capture erodes retention and decision follow-through. Clean documentation accelerates onboarding, follow-ups, and stakeholder communication.
+
+**Examples:**
+- Miro export incl. Confluence summary within 48h
+- High-res photos of wall plus transcription of clusters
+- Repository branch for architectural sketches
+- Shared folder: raw artifacts, processed summary, decisions log
 
 ## 7\. How to use this canvas
 
