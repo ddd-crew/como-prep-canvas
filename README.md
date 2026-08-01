@@ -826,6 +826,8 @@ The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensur
 
 [Preview on Miro.com](https://miro.com/app/board/uXjVJP8Fbzc=/)
 
+[German translation of the Miroboard as a Miro template](https://miro.com/templates/workshop-fuer-collaborative-modelling/)
+
 # Authors
 
 - Beija Nigl ([GitHub](https://github.com/beija), [LinkedIn](https://www.linkedin.com/in/beija-nigl/))
@@ -836,6 +838,7 @@ The **Collaborative Modelling Workshop Preparation Canvas** is designed to ensur
 # Contributors
 
 - All the [CoMoCamp](https://comocamp.org/) Open Space participants!
+- Cosima Laube ([GitHub](https://github.com/cosimalaube), [LinkedIn](https://www.linkedin.com/in/cosima-laube/)), German translation 
 
 # License
 
